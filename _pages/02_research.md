@@ -40,6 +40,7 @@ My research interests lie in algebraic number theory and arithmetic geometry.
 * **CMI-HIMR Summer School in Computational Number Theory**  
 	*University of Bristol - June 2019*
 
-* **Connecticut Summer School in Number Theory and Conference on Elliptic Curves and Modular Forms**  
+* **Connecticut Summer School in Number Theory and**  
+	**Conference on Elliptic Curves and Modular Forms**  
 	*University of Connecticut - May 2018*
 

@@ -9,7 +9,8 @@ In Fall 2019 I am teaching Math 2250, Calculus I for Science and Engineering, CR
 
 Office hours for Fall 2019 are
 
-* to be announced!
+* Mondays, Wednesdays 1:30-2:30 p.m.  
+* Thursdays, 9:30-10:30 a.m.
 
 or by appointment.  
 

@@ -15,6 +15,8 @@ Contact:
 * Email: frederick.saia (at) uga (dot) edu   
 * Office: Boyd 534  
 
+[CV](https://drive.google.com/file/d/1Nom9FVFOhQei7S1km4OEKjsCzQw3AE6u/view?usp=sharing)
+
 <br />
 <br />
 <br />

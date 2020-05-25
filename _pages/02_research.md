@@ -5,7 +5,7 @@ title: Research
 permalink: /research/
 ---
 
-<img src='gamma0_14.jpg' style="float:right; width:40%; margin: -100px;"/>
+<img src='gamma0_17.jpg' style="float:right; width:40%; margin: -100px;"/>
 
 My research interests lie in number theory and arithmetic geometry.
 

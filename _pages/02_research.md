@@ -5,7 +5,11 @@ title: Research
 permalink: /research/
 ---
 
+<img src='gamma0_14.jpg' style="float:right; width:40%; margin: -100px;"/>
+
 My research interests lie in number theory and arithmetic geometry.
+
+
 
 ## In Preparation 
 
@@ -39,6 +43,7 @@ My research interests lie in number theory and arithmetic geometry.
 
 ## Conferences and Workshops
 
+
 ### Contributed Talks 
 
 * **Triangular numbers and modular forms** [(slides)](https://drive.google.com/open?id=1EP51_A3XrRw-AAHQ1egrBzM5dcaOEAOB)  
@@ -66,4 +71,6 @@ My research interests lie in number theory and arithmetic geometry.
 * **Connecticut Summer School in Number Theory and**  
 	**Conference on Elliptic Curves and Modular Forms (CTNT)**  
 	*University of Connecticut - May 2018*
+
+
 

@@ -59,7 +59,7 @@ My research interests lie in number theory and arithmetic geometry.
 
 ### Attendee
 
-* **Modular Forms, Arithmetic, and Women in Mathematics (MAIIM)**  
+* **Modular Forms, Arithmetic, and Women in Mathematics (MAAIM)**  
 	*Emory University - Nov 2019*
 
 * **Midwest Arithmetic Geometry and Number Theory Series (MAGNTS)**  

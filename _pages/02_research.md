@@ -5,39 +5,66 @@ title: Research
 permalink: /research/
 ---
 
-<img src='gamma0_17.jpg' style="float:right; width:40%; margin: -100px;"/>
+<img src='gamma0_17.jpg' style="float:right; width:30%; margin: -100px;"/>
 
 My research interests lie in number theory and arithmetic geometry.
 
 
 
-## In Preparation 
+[comment]: <>  ## In Preparation 
 
-* **The least degree of a CM point on a modular curve** [(computations)](https://github.com/fsaia/least-cm-degree)  
-	with P. L. Clark, T. Genao, and P. Pollack
+
 
 
 ## Publications
 
+* **The least degree of a CM point on a modular curve** [(computations)](https://github.com/fsaia/least-cm-degree), [(pdf)](http://alpha.math.uga.edu/~pete/least_CM_degree-1226.pdf)  
+	with P. L. Clark, T. Genao, and P. Pollack  
+	*Journal of the London Mathematical Society, 2022*  
+
+* **Chevalley-Warning at the boundary** [(pdf)](http://alpha.math.uga.edu/~pete/Chevalley_Warning_on_the_Boundary.pdf)  
+	with P. L. Clark and T. Genao  
+	*Expositiones Mathematicae, 2021*  
+
 * **Classically integral quadratic forms excepting at most two values** [(arXiv)](https://arxiv.org/abs/1608.01656)     
 	with M. Barowsky, W. Damron, A. Mejia, N. Schock, and K. Thompson  
-	*Proceedings of the AMS, 2017* 
+	*Proceedings of the AMS, 2017*  
 
 
 ## Seminar Talks
 
+* **The Chebotarev density theorem**  
+	*Catalan’s Conjecture after Mihailescu Reading Seminar (CCAM), UGA -- November 2021*  
+
+* **Isogeny volcanoes**  
+	*Graduate Student Seminar, UGA -- October 2021*  
+
+* **On Honda’s Isogeny Classes of abelian varieties over finite fields**  
+	*Classical Readings in Arithmetic/Algebraic Geometry Seminar (CRAAG), UGA -- July 2021*  
+
+* **Galois action on CM points**  
+	*Zannier on Zoom (ZaZoom) reading seminar, UGA -- October 2021*  
+
+* **What is a Shimura curve?**  
+	*Graduate Student Seminar, UGA -- April 2021*  
+
+* **Locally algebraic representations**  
+	*Serre on Zoom (SeZoom) reading seminar, UGA -- March 2021*  
+
+* **Sporadic CM points on Modular Curves**  
+	*Graduate Student Seminar, UGA -- April 2020*  
+
 * **Formalism of moduli problems**  
-	*Arithmetic Moduli of Elliptic Curves Reading Seminar, University of Georgia - Nov 2019*
+	*Arithmetic Moduli of Elliptic Curves Reading Seminar, UGA -- Nov 2019*
 
 * **Introduction to Sage and Magma**  
-	*Street Math and Related Topics Seminar (SMARTS), University of Georgia - Nov 2019*
+	*Street Math and Related Topics Seminar (SMARTS), UGA -- Nov 2019*  
 
 * **Modular forms part 2**  
-	*Arithmetic Moduli of Elliptic Curves Reading Seminar, University of Georgia - Aug 2019*
+	*Arithmetic Moduli of Elliptic Curves Reading Seminar, UGA -- Aug 2019*  
 
 * **Introduction to modular forms**  
-	*Graduate Algebraic Geometry Seminar, University of Georgia - March 2019*
-
+	*Graduate Algebraic Geometry Seminar, UGA -- March 2019*  
 
 
 
@@ -46,31 +73,59 @@ My research interests lie in number theory and arithmetic geometry.
 
 ### Contributed Talks 
 
-* **Triangular numbers and modular forms** [(slides)](https://drive.google.com/open?id=1EP51_A3XrRw-AAHQ1egrBzM5dcaOEAOB)  
-	*Mock AMS Conference, University of Georgia - July 2019*
+* **Fields of moduli, rationality, and fake elliptic curves**  
+	*Graduate Summer Conference, UGA -- July 2021*  
 
-* **An axiomatic approach to homology theory** [(slides)](https://drive.google.com/open?id=19N0xxMYhSn1a6ZJ65pzbabFCFLGRhBz9)  
-	*Mock AMS Conference, University of Georgia - July 2018*
+* **No elliptic curve has a Q-rational point of order 13**  
+	*Graduate Summer Conference, UGA -- July 2020*  
+
+* **Triangular numbers and modular forms**  
+	*Graduate Summer Conference, UGA -- July 2019*  
+
+* **An axiomatic approach to homology theory**  
+	*Graduate Summer Conference, UGA -- July 2018*  
 
 * **Classically integral quadratic forms excepting at most two values** [(slides)](https://drive.google.com/open?id=1zhFYt1vBehf-k8IorQQDJeZ4FII6qSSP)  
 	with M. Barowsky, W. Damron, A. Mejia, and N. Schock  
-	*Joint Math Meetings, Atlanta, GA - January 2017*
+	*Joint Math Meetings, Atlanta, GA -- January 2017*  
 
 
 ### Attendee
 
+* **Virtual Number Theory and Arithmetic Geometry (VaNTAGe)**  
+	*Virtual -- Fall 2020, Summer 2021, Fall 2021*  
+
+* **PCMI Graduate Summer School on**  
+ **Number Theory Informed by Computation**  
+	*Virtual -- July 2021*
+
+* **Mathematics Teacher-Scholar Symposium (MaTSS)**  
+	*Virtual -- May 2021*
+
+* **Connecticut Number Theory Conference (CTNT)**  
+	*Virtual -- June 2020*  
+
+* **Front Range Number Theory Day**  
+	*Virtual -- April 2020*
+
+* **Arithmetic Geometry is Online In Zoom, Everyone (AGONIZE)**  
+	*Virtual -- March 2020*  
+
+* **Arizona Winter School - Nonabelian Chabauty**  
+	*University of Arizona -- March 2020*  
+
 * **Modular Forms, Arithmetic, and Women in Mathematics (MAAIM)**  
-	*Emory University - Nov 2019*
+	*Emory University -- Nov 2019*
 
 * **Midwest Arithmetic Geometry and Number Theory Series (MAGNTS)**  
-	*Ohio State University - Oct 2019*
+	*Ohio State University -- Oct 2019*
 
 * **CMI-HIMR Summer School in Computational Number Theory**  
-	*University of Bristol - June 2019*
+	*University of Bristol -- June 2019*
 
 * **Connecticut Summer School in Number Theory and**  
 	**Conference on Elliptic Curves and Modular Forms (CTNT)**  
-	*University of Connecticut - May 2018*
+	*University of Connecticut -- May 2018*
 
 
 

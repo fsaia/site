@@ -5,9 +5,9 @@ title: Teaching
 permalink: /teaching/
 ---
 
-In Spring 2021 I am the [Writing Intensive Program (WIP)](https://write.uga.edu/programs/wip/) TA for Math 5001: Arithmetic and Problem Solving for Elementary School Teachers.
+In Spring 2022 I am the [Writing Intensive Program (WIP)](https://write.uga.edu/programs/wip/) TA for Math 5001: Arithmetic and Problem Solving for Elementary School Teachers.
 
-Office hours for Fall 2021 are
+Office hours for Spring 2022 are
 
 * by appointment  
 

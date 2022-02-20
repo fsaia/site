@@ -34,22 +34,22 @@ My research interests lie in number theory and arithmetic geometry.
 ## Seminar Talks
 
 * **The Chebotarev density theorem**  
-	*Catalan’s Conjecture after Mihailescu Reading Seminar (CCAM), UGA -- November 2021*  
+	*Catalan’s Conjecture after Mihailescu (CCAM) Reading Seminar, UGA -- November 2021*  
 
 * **Isogeny volcanoes**  
 	*Graduate Student Seminar, UGA -- October 2021*  
 
-* **On Honda’s Isogeny Classes of abelian varieties over finite fields**  
-	*Classical Readings in Arithmetic/Algebraic Geometry Seminar (CRAAG), UGA -- July 2021*  
-
-* **Galois action on CM points**  
-	*Zannier on Zoom (ZaZoom) reading seminar, UGA -- October 2021*  
+* **On Honda’s _Isogeny classes of abelian varieties over finite fields_** 
+	*Classical Readings in Arithmetic/Algebraic Geometry Seminar (CRAAG), UGA -- July 2021* 
 
 * **What is a Shimura curve?**  
 	*Graduate Student Seminar, UGA -- April 2021*  
 
 * **Locally algebraic representations**  
 	*Serre on Zoom (SeZoom) reading seminar, UGA -- March 2021*  
+
+* **Galois action on CM points**  
+	*Zannier on Zoom (ZaZoom) reading seminar, UGA -- October 2020*  
 
 * **Sporadic CM points on Modular Curves**  
 	*Graduate Student Seminar, UGA -- April 2020*  

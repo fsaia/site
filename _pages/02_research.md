@@ -39,8 +39,8 @@ My research interests lie in number theory and arithmetic geometry.
 * **Isogeny volcanoes**  
 	*Graduate Student Seminar, UGA -- October 2021*  
 
-* **On Honda’s _Isogeny classes of abelian varieties over finite fields_** 
-	*Classical Readings in Arithmetic/Algebraic Geometry Seminar (CRAAG), UGA -- July 2021* 
+* **On Honda’s _Isogeny classes of abelian varieties over finite fields_**   
+	*Classical Readings in Arithmetic/Algebraic Geometry Seminar (CRAAG), UGA -- July 2021*   
 
 * **What is a Shimura curve?**  
 	*Graduate Student Seminar, UGA -- April 2021*  

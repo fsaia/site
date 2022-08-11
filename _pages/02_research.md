@@ -5,9 +5,9 @@ title: Research
 permalink: /research/
 ---
 
-<img src='gamma0_17.jpg' style="float:right; width:30%; margin: -100px;"/>
 
-My research interests lie in number theory and arithmetic geometry.
+
+My research interests lie in number theory and arithmetic geometry. In particular, I am interested in (torsion of) elliptic curves and low-dimensional abelian varieties, often in the case of extra endomorphisms and from the vantage of rational points on modular and Shimura curves. 
 
 
 
@@ -15,12 +15,17 @@ My research interests lie in number theory and arithmetic geometry.
 
 
 
+## In Progress
+
+* **CM points on Shimura curves via QM-equivariant isogeny volcanoes** [(computations)](https://github.com/fsaia/CM-Points-Shimura-Curves), [(preprint)](https://drive.google.com/file/d/1S5vubD7dgiGg2278i9AOsgXySi9x0YkN/view)  
 
 ## Publications
-
+	
 * **The least degree of a CM point on a modular curve** [(computations)](https://github.com/fsaia/least-cm-degree), [(pdf)](http://alpha.math.uga.edu/~pete/least_CM_degree-1226.pdf)  
 	with P. L. Clark, T. Genao, and P. Pollack  
 	*Journal of the London Mathematical Society, 2022*  
+
+<img src='-8_ram.png' style="float:right; width:32%; margin: -100px;"/>
 
 * **Chevalley-Warning at the boundary** [(pdf)](http://alpha.math.uga.edu/~pete/Chevalley_Warning_on_the_Boundary.pdf)  
 	with P. L. Clark and T. Genao  
@@ -29,6 +34,7 @@ My research interests lie in number theory and arithmetic geometry.
 * **Classically integral quadratic forms excepting at most two values** [(arXiv)](https://arxiv.org/abs/1608.01656)     
 	with M. Barowsky, W. Damron, A. Mejia, N. Schock, and K. Thompson  
 	*Proceedings of the AMS, 2017*  
+
 
 
 ## Seminar Talks
@@ -41,12 +47,13 @@ My research interests lie in number theory and arithmetic geometry.
 
 * **On Honda’s _Isogeny classes of abelian varieties over finite fields_**   
 	*Classical Readings in Arithmetic/Algebraic Geometry Seminar (CRAAG), UGA -- July 2021*   
-
 * **What is a Shimura curve?**  
 	*Graduate Student Seminar, UGA -- April 2021*  
 
 * **Locally algebraic representations**  
 	*Serre on Zoom (SeZoom) reading seminar, UGA -- March 2021*  
+
+<img src='gamma0_17.jpg' style="float:right; width:30%; margin: -100px;"/>
 
 * **Galois action on CM points**  
 	*Zannier on Zoom (ZaZoom) reading seminar, UGA -- October 2020*  
@@ -73,6 +80,9 @@ My research interests lie in number theory and arithmetic geometry.
 
 ### Contributed Talks 
 
+* **A volcanic approach to CM points on Shimura curves** [(slides)](https://drive.google.com/file/d/1S7h6cqH7wubAWJBCpputwF3ixwVQZ-eN/view)  
+	*Graduate Summer Conference, UGA -- July 2022*  
+	
 * **Fields of moduli, rationality, and fake elliptic curves**  
 	*Graduate Summer Conference, UGA -- July 2021*  
 

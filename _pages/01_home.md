@@ -9,7 +9,9 @@ permalink: /home/
 
 Welcome!
 
-I am a mathematics graduate student at the University of Georgia in Athens, GA.  I completed my B.S. in math and physics at Tufts University in Medford, MA in 2017. 
+I am a PhD candidate in mathematics at the [University of Georgia](https://www.math.uga.edu/) in Athens, GA. My advisor is [Pete L. Clark](http://alpha.math.uga.edu/~pete/). I completed my B.S. in math and physics at [Tufts University](https://math.tufts.edu/) in Medford, MA in 2017.
+
+I am on the job market in the 2022-2023 academic year! See the research, teaching, and service tabs above for relevant information. 
 
 Contact:
 * Email: frederick.saia (at) uga (dot) edu 

@@ -5,17 +5,30 @@ title: Teaching
 permalink: /teaching/
 ---
 
-In Spring 2022 I am the [Writing Intensive Program (WIP)](https://write.uga.edu/programs/wip/) TA for Math 5001: Arithmetic and Problem Solving for Elementary School Teachers.
-
-Office hours for Spring 2022 are
-
-* by appointment  
+In Fall 2022 I am teaching Math 2250: Calculus I. Our class will utilize a flipped classroom structure emphasizing active, collaborative problem solving and learning.  
 
 
-I have undergone the UGA LGBT center's [safe space training](https://lgbtcenter.uga.edu/content_page/safe-space) and consider my office a safe space for all. I hope that you do, too! I have also completed the university's [Certificate in Diversity and Inclusion](http://diversity.uga.edu/index.php/programs/article/cdi).      
+Office hours for Fall 2022 are
+
+* TBA!
+
+
+I have undergone the UGA LGBT center's [Safe Space Training](https://lgbtcenter.uga.edu/content_page/safe-space) and consider my office a safe space for all. I hope that you do, too! I have also completed the university's [Certificate in Diversity and Inclusion](http://diversity.uga.edu/index.php/programs/article/cdi).      
 
 
 ## Past Teaching:
+
+Summer 2022
+
+* Math 1113: Precalculus, CRN 68401  
+
+Spring 2021 
+
+* [Writing Intensive Program (WIP)](https://write.uga.edu/programs/wip/) TA for Math 5001: Arithmetic and Problem Solving for Elementary School Teachers.  
+
+Spring 2022
+
+* [Writing Intensive Program (WIP)](https://write.uga.edu/programs/wip/) TA for Math 5001: Arithmetic and Problem Solving for Elementary School Teachers.  
 
 Fall 2021 
 

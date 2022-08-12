@@ -15,7 +15,7 @@ My research interests lie in number theory and arithmetic geometry. In particula
 
 
 
-## In Progress
+## In Preparation
 
 * **CM points on Shimura curves via QM-equivariant isogeny volcanoes** [(computations)](https://github.com/fsaia/CM-Points-Shimura-Curves), [(preprint)](https://drive.google.com/file/d/1S5vubD7dgiGg2278i9AOsgXySi9x0YkN/view)  
 

@@ -5,7 +5,7 @@ title: Home
 permalink: /home/
 ---
 
-<img src='site-photo-2-crop.png' style="float:right; width:30%; margin:0px;"/>
+<img src='site-photo-2-crop.jpeg' style="float:right; width:30%; margin:0px;"/>
 
 Welcome!
 

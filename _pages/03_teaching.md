@@ -35,11 +35,6 @@ Fall 2021
 * Math 1113: Precalculus, CRNs 15365 and 27473  
 	*flipped classroom structure*  
 
-Summer 2021
-
-* Graduate TA for 2021 [PCMI Undergraduate Summer School](https://www.ias.edu/pcmi)    
-	*Topic: Quadratic forms, Milnor K-theory, and Arithmetic*  
-
 Spring 2021
 
 * Math 2250: Calculus I, CRN 40637  

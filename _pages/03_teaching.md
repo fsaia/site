@@ -22,10 +22,6 @@ Summer 2022
 
 * Math 1113: Precalculus, CRN 68401  
 
-Spring 2021 
-
-* [Writing Intensive Program (WIP)](https://write.uga.edu/programs/wip/) TA for Math 5001: Arithmetic and Problem Solving for Elementary School Teachers.  
-
 Spring 2022
 
 * [Writing Intensive Program (WIP)](https://write.uga.edu/programs/wip/) TA for Math 5001: Arithmetic and Problem Solving for Elementary School Teachers.  

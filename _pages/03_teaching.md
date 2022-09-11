@@ -10,7 +10,9 @@ In Fall 2022 I am teaching Math 2250: Calculus I. Our class will utilize a flipp
 
 Office hours for Fall 2022 are
 
-* TBA!
+* Mondays 9:30 -- 10:30 a.m.  
+* Tuesdays 11:00 a.m. -- 12:00 p.m.  
+* Thursdays 2:30 -- 3:30 p.m.  
 
 
 I have undergone the UGA LGBT center's [Safe Space Training](https://lgbtcenter.uga.edu/content_page/safe-space) and consider my office a safe space for all. I hope that you do, too! I have also completed the university's [Certificate in Diversity and Inclusion](http://diversity.uga.edu/index.php/programs/article/cdi).      

@@ -39,6 +39,9 @@ My research interests lie in number theory and arithmetic geometry. In particula
 
 ## Seminar Talks
 
+* **A volcanic approach to CM points on Shimura curves** [(slides)](https://drive.google.com/file/d/1SFIaD_L5qzTWFflh4q2MtCU18h-MxPrc/view?usp=sharing)  
+	*Number Thoery Seminar, UGA -- September 2022*  
+
 * **The Chebotarev density theorem**  
 	*Catalan’s Conjecture after Mihailescu (CCAM) Reading Seminar, UGA -- November 2021*  
 
@@ -80,7 +83,7 @@ My research interests lie in number theory and arithmetic geometry. In particula
 
 ### Contributed Talks 
 
-* **A volcanic approach to CM points on Shimura curves** [(slides)](https://drive.google.com/file/d/1S7h6cqH7wubAWJBCpputwF3ixwVQZ-eN/view)  
+* **A volcanic approach to CM points on Shimura curves**  
 	*Graduate Summer Conference, UGA -- July 2022*  
 	
 * **Fields of moduli, rationality, and fake elliptic curves**  

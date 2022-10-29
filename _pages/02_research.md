@@ -19,6 +19,9 @@ My research interests lie in number theory and arithmetic geometry. In particula
 
 * **CM points on Shimura curves via QM-equivariant isogeny volcanoes** [(computations)](https://github.com/fsaia/CM-Points-Shimura-Curves), [(preprint)](https://drive.google.com/file/d/1SCCfv7RPSytYqSZghVFkspes5Zo7qask/view?usp=sharing)  
 
+* **CM elliptic curves: volcanoes, reality and applications** (preprint available upon request)  
+	with P. L. Clark
+
 ## Publications
 	
 * **The least degree of a CM point on a modular curve** [(computations)](https://github.com/fsaia/least-cm-degree), [(pdf)](http://alpha.math.uga.edu/~pete/least_CM_degree-1226.pdf)  
@@ -36,53 +39,13 @@ My research interests lie in number theory and arithmetic geometry. In particula
 	*Proceedings of the AMS, 2017*  
 
 
-
-## Seminar Talks
-
-* **A volcanic approach to CM points on Shimura curves** [(slides)](https://drive.google.com/file/d/1SFIaD_L5qzTWFflh4q2MtCU18h-MxPrc/view?usp=sharing)  
-	*Number Theory Seminar, UGA -- September 2022*  
-
-* **The Chebotarev density theorem**  
-	*Catalan’s Conjecture after Mihailescu (CCAM) Reading Seminar, UGA -- November 2021*  
-
-* **Isogeny volcanoes**  
-	*Graduate Student Seminar, UGA -- October 2021*  
-
-* **On Honda’s _Isogeny classes of abelian varieties over finite fields_**   
-	*Classical Readings in Arithmetic/Algebraic Geometry Seminar (CRAAG), UGA -- July 2021*   
-* **What is a Shimura curve?**  
-	*Graduate Student Seminar, UGA -- April 2021*  
-
-* **Locally algebraic representations**  
-	*Serre on Zoom (SeZoom) reading seminar, UGA -- March 2021*  
-
-<img src='gamma0_17.jpg' style="float:right; width:30%; margin: -100px;"/>
-
-* **Galois action on CM points**  
-	*Zannier on Zoom (ZaZoom) reading seminar, UGA -- October 2020*  
-
-* **Sporadic CM points on Modular Curves**  
-	*Graduate Student Seminar, UGA -- April 2020*  
-
-* **Formalism of moduli problems**  
-	*Arithmetic Moduli of Elliptic Curves Reading Seminar, UGA -- Nov 2019*
-
-* **Introduction to Sage and Magma**  
-	*Street Math and Related Topics Seminar (SMARTS), UGA -- Nov 2019*  
-
-* **Modular forms part 2**  
-	*Arithmetic Moduli of Elliptic Curves Reading Seminar, UGA -- Aug 2019*  
-
-* **Introduction to modular forms**  
-	*Graduate Algebraic Geometry Seminar, UGA -- March 2019*  
-
-
-
 ## Conferences and Workshops
 
 
 ### Contributed Talks 
 
+* **A volcanic approach to CM points on Shimura curves**  
+	*JMM Special Session on Arithmetic Geometry Informed by Computation, Boston, MA -- January 2023*    
 * **A volcanic approach to CM points on Shimura curves**  
 	*Graduate Summer Conference, UGA -- July 2022*  
 	
@@ -139,6 +102,49 @@ My research interests lie in number theory and arithmetic geometry. In particula
 * **Connecticut Summer School in Number Theory and**  
 	**Conference on Elliptic Curves and Modular Forms (CTNT)**  
 	*University of Connecticut -- May 2018*
+
+
+## Seminar Talks
+
+* **On Hindry--Silverman's _Sur le nombre de points de torsion rationnels sur une courbe elliptique_**  	*Short and Sweet Seminar (SASS), UGA -- October 2022*  
+
+* **A volcanic approach to CM points on Shimura curves** [(slides)](https://drive.google.com/file/d/1SFIaD_L5qzTWFflh4q2MtCU18h-MxPrc/view?usp=sharing)  
+	*Number Theory Seminar, UGA -- September 2022*  
+
+* **The Chebotarev density theorem**  
+	*Catalan’s Conjecture after Mihailescu (CCAM) Reading Seminar, UGA -- November 2021*  
+
+* **Isogeny volcanoes**  
+	*Graduate Student Seminar, UGA -- October 2021*  
+
+* **On Honda’s _Isogeny classes of abelian varieties over finite fields_**   
+	*Classical Readings in Arithmetic/Algebraic Geometry Seminar (CRAAG), UGA -- July 2021*   
+* **What is a Shimura curve?**  
+	*Graduate Student Seminar, UGA -- April 2021*  
+
+* **Locally algebraic representations**  
+	*Serre on Zoom (SeZoom) reading seminar, UGA -- March 2021*  
+
+<img src='gamma0_17.jpg' style="float:right; width:30%; margin: -100px;"/>
+
+* **Galois action on CM points**  
+	*Zannier on Zoom (ZaZoom) reading seminar, UGA -- October 2020*  
+
+* **Sporadic CM points on Modular Curves**  
+	*Graduate Student Seminar, UGA -- April 2020*  
+
+* **Formalism of moduli problems**  
+	*Arithmetic Moduli of Elliptic Curves Reading Seminar, UGA -- Nov 2019*
+
+* **Introduction to Sage and Magma**  
+	*Street Math and Related Topics Seminar (SMARTS), UGA -- Nov 2019*  
+
+* **Modular forms part 2**  
+	*Arithmetic Moduli of Elliptic Curves Reading Seminar, UGA -- Aug 2019*  
+
+* **Introduction to modular forms**  
+	*Graduate Algebraic Geometry Seminar, UGA -- March 2019*  
+
 
 
 

@@ -36,7 +36,7 @@ My research interests lie in number theory and arithmetic geometry. In particula
 
 * **Classically integral quadratic forms excepting at most two values** [(arXiv)](https://arxiv.org/abs/1608.01656)     
 	with M. Barowsky, W. Damron, A. Mejia, N. Schock, and K. Thompson  
-	*Proceedings of the AMS, 2017*  
+	*Proceedings of the AMS, 2018*  
 
 
 ## Conferences and Workshops

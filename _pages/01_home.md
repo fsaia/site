@@ -13,8 +13,14 @@ I am a PhD candidate in mathematics at the [University of Georgia](https://www.m
 
 
 I am on the **job market** in the 2022-2023 academic year! See the research, teaching, and service tabs above for relevant information, as well as my CV linked below.  
+  
+### Upcoming Travel
 
-I will be attending the **2023 Joint Mathematics Meetings** in Boston, MA, and [will be speaking](https://meetings.ams.org/math/jmm2023/meetingapp.cgi/Paper/18238) on Wednesday, 1/4 at 8:30 a.m. in the AMS Special Session on Arithmetic Geometry Informed by Computation.
+* [PANTS XXXV](https://people.math.sc.edu/filaseta/PANTS2022.html) at the University of South Carolina  
+	December 10--11, 2022  
+
+* 2023 Joint Mathematics Meetings in Boston, MA  
+	[speaking](https://meetings.ams.org/math/jmm2023/meetingapp.cgi/Paper/18238) Wednesday, 1/4 in the AMS Special Session on Arithmetic Geometry Informed by Computation.  
 
 Contact:
 * Email: frederick.saia (at) uga (dot) edu 

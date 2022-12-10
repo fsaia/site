@@ -5,16 +5,6 @@ title: Research
 permalink: /research/
 ---
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-Y960P2J2F6"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-Y960P2J2F6');
-</script>
-
 
 
 My research interests lie in number theory and arithmetic geometry. In particular, I am interested in (torsion of) elliptic curves and low-dimensional abelian varieties, often in the case of extra endomorphisms and from the vantage of rational points on modular and Shimura curves. 

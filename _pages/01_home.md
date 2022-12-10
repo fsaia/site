@@ -5,16 +5,6 @@ title: Home
 permalink: /home/
 ---
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-Y960P2J2F6"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-Y960P2J2F6');
-</script>
-
 <img src='site-photo-2-crop.jpeg' style="float:right; width:30%; margin:0px;"/>
 
 Welcome!

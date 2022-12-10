@@ -5,6 +5,16 @@ title: Teaching
 permalink: /teaching/
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Y960P2J2F6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-Y960P2J2F6');
+</script>
+
 In Fall 2022 I am teaching Math 2250: Calculus I. Our class will utilize a flipped classroom structure emphasizing active, collaborative problem solving and learning.  
 
 

@@ -5,6 +5,16 @@ title: Service
 permalink: /service/
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Y960P2J2F6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-Y960P2J2F6');
+</script>
+
 I am currently the **graduate student ombudsperson** for the UGA math department. My main role in this position is to serve as an intermediary to discuss concerns or complaints with the department or graduate committee, especially in cases where graduate students wish to remain anonymous. I am also happy to help students understand and navigate general departmental policies and requirements.  
 
 Don't hesitate to reach out by email or drop by my office if you have anything to discuss along these lines, or if you have suggestions or concerns regarding the function of this role!

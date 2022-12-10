@@ -2,8 +2,6 @@
 layout: default 
 ---
 
-<h2> Home </h2>
-
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-Y960P2J2F6"></script>
 <script>
@@ -13,6 +11,10 @@ layout: default
 
   gtag('config', 'G-Y960P2J2F6');
 </script>
+
+<h2> Home </h2>
+
+
 
 <img src='site-photo-2-crop.jpeg' style="float:right; width:30%; margin:0px;"/>
 

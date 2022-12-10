@@ -46,8 +46,7 @@ My research interests lie in number theory and arithmetic geometry. In particula
 
 * **A volcanic approach to CM points on Shimura curves**  
 	*JMM Special Session on Arithmetic Geometry Informed by Computation, Boston, MA -- January 2023* 
-
-* **A volcanic approach to CM points on Shimura curves**  
+* **A volcanic approach to CM points on Shimura curves** [(slides)](https://drive.google.com/open?id=1SNgswVQlgWAlEkJ2OukOny0WT5BLV_9Q&authuser=freddy.v.saia%40gmail.com&usp=drive_fs)  
 	*PANTS XXXV, University of South Carolina -- December 2022*  
 
 * **A volcanic approach to CM points on Shimura curves**  

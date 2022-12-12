@@ -15,7 +15,7 @@ Office hours for Fall 2022 are
 * Thursdays 2:30 -- 3:30 p.m.  
 
 
-I have undergone the UGA LGBT center's [Safe Space Training](https://lgbtcenter.uga.edu/content_page/safe-space) and consider my office a safe space for all. I hope that you do, too! I have also completed the university's [Certificate in Diversity and Inclusion](http://diversity.uga.edu/index.php/programs/article/cdi).      
+I have undergone the UGA Pride center's [Safe Space Training](https://lgbtcenter.uga.edu/content_page/safe-space) and consider my office a safe space for all. I hope that you do, too! I have also completed the university's [Certificate in Diversity and Inclusion](http://diversity.uga.edu/index.php/programs/article/cdi).      
 
 
 ## Past Teaching:

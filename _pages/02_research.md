@@ -19,7 +19,7 @@ My research interests lie in number theory and arithmetic geometry. In particula
 
 * **CM points on Shimura curves via QM-equivariant isogeny volcanoes** [(computations)](https://github.com/fsaia/CM-Points-Shimura-Curves), [(preprint)](https://drive.google.com/file/d/1SCCfv7RPSytYqSZghVFkspes5Zo7qask/view?usp=sharing)  
 
-* **CM elliptic curves: volcanoes, reality and applications, part II** (preprint available upon request)  
+* **CM elliptic curves: volcanoes, reality and applications, part II** [(preprint)](https://drive.google.com/file/d/1SQwJ4HetSW6mQX-eZ_Fy4EAKF9nl5qJS/view?usp=sharing)  
 	with P. L. Clark
 
 ## Publications

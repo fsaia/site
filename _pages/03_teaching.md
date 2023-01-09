@@ -5,20 +5,23 @@ title: Teaching
 permalink: /teaching/
 ---
 
-In Fall 2022 I am teaching Math 2250: Calculus I. Our class will utilize a flipped classroom structure emphasizing active, collaborative problem solving and learning.  
+In Spring 2023 I am teaching Math 1113: Precalculus. Our class will utilize a flipped classroom structure emphasizing active, collaborative problem solving and learning.  
 
 
-Office hours for Fall 2022 are
+Office hours for Spring 2023 are
 
-* Mondays 9:30 -- 10:30 a.m.  
-* Tuesdays 11:00 a.m. -- 12:00 p.m.  
-* Thursdays 2:30 -- 3:30 p.m.  
+* to be determined!  
 
 
 I have undergone the UGA Pride center's [Safe Space Training](https://lgbtcenter.uga.edu/content_page/safe-space) and consider my office a safe space for all. I hope that you do, too! I have also completed the university's [Certificate in Diversity and Inclusion](http://diversity.uga.edu/index.php/programs/article/cdi).      
 
 
 ## Past Teaching:
+
+Fall 2022
+
+* Math 2250: Calculus I, CRN 15447 
+	*flipped classroom structure*  
 
 Summer 2022
 

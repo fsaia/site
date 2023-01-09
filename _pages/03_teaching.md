@@ -20,7 +20,7 @@ I have undergone the UGA Pride center's [Safe Space Training](https://lgbtcenter
 
 Fall 2022
 
-* Math 2250: Calculus I, CRN 15447 
+* Math 2250: Calculus I, CRN 15447   
 	*flipped classroom structure*  
 
 Summer 2022

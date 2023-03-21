@@ -44,9 +44,6 @@ My research interests lie in number theory and arithmetic geometry. In particula
 
 ### Contributed Talks 
 
-* **A volcanic approach to CM points on Shimura curves** [(slides)](https://drive.google.com/file/d/1SdauWPzD3GxAq4x1sK173oygO5Ix7fW2/view?usp=sharing)  
-	*Algebra & Number Theory Seminar, Emory University -- March 2023*  
-
 * **A volcanic approach to CM points on Shimura curves** [(slides)](https://drive.google.com/file/d/1ScokMj5fKB2mcEC4PY873ag8fCeyZ8rj/view?usp=sharing)  
 	*SRNTC, Louisiana State University -- March 2023*  
 
@@ -115,6 +112,9 @@ My research interests lie in number theory and arithmetic geometry. In particula
 
 ## Seminar Talks
 
+* **A volcanic approach to CM points on Shimura curves** [(slides)](https://drive.google.com/file/d/1SdauWPzD3GxAq4x1sK173oygO5Ix7fW2/view?usp=sharing)  
+	*Algebra & Number Theory Seminar, Emory University -- March 2023*  
+	
 * **On Hindry--Silverman's _Sur le nombre de points de torsion rationnels sur une courbe elliptique_**  	*Short and Sweet Seminar (SASS), UGA -- October 2022*  
 
 * **A volcanic approach to CM points on Shimura curves** [(slides)](https://drive.google.com/file/d/1SFIaD_L5qzTWFflh4q2MtCU18h-MxPrc/view?usp=sharing)  

@@ -5,27 +5,34 @@ title: Teaching
 permalink: /teaching/
 ---
 
-In Spring 2023 I am teaching Math 1113: Precalculus. Our class will utilize a flipped classroom structure emphasizing active, collaborative problem solving and learning.  
+[comment]: <> In Spring 2023 I am teaching Math 1113: Precalculus. Our class will utilize a flipped classroom structure emphasizing active, collaborative problem solving and learning.  
 
 
-Office hours for Spring 2023 are
+[comment]: <> Office hours for Spring 2023 are
 
-* to be determined!  
+[comment]: <> * to be determined!  
 
 
 I have undergone the UGA Pride center's [Safe Space Training](https://lgbtcenter.uga.edu/content_page/safe-space) and consider my office a safe space for all. I hope that you do, too! I have also completed the university's [Certificate in Diversity and Inclusion](http://diversity.uga.edu/index.php/programs/article/cdi).      
 
 
-## Past Teaching:
+## Past Teaching:  
+
+<font size= "5"> <span style="color: black"> At UGA: </span> </font>
+
+Spring 2023 
+
+* Math 1113: Precalculus, 2 sections  
+	*flipped classroom structure*  
 
 Fall 2022
 
-* Math 2250: Calculus I, CRN 15447   
+* Math 2250: Calculus I   
 	*flipped classroom structure*  
 
 Summer 2022
 
-* Math 1113: Precalculus, CRN 68401  
+* Math 1113: Precalculus    
 
 Spring 2022
 
@@ -33,7 +40,7 @@ Spring 2022
 
 Fall 2021 
 
-* Math 1113: Precalculus, CRNs 15365 and 27473  
+* Math 1113: Precalculus, 2 sections  
 	*flipped classroom structure*  
 
 Summer 2021
@@ -43,29 +50,29 @@ Summer 2021
 
 Spring 2021
 
-* Math 2250: Calculus I, CRN 40637  
+* Math 2250: Calculus I   
 	*flipped, hybrid classroom structure*  
 
 Fall 2020
 
-* Math 1113: Precalculus, CRNs 29607 and 36869  
+* Math 1113: Precalculus, 2 sections  
 	*flipped, hybrid classroom structure*
 
 Spring 2020 
 
-* Math 2250: Calculus I, CRN 24956  
+* Math 2250: Calculus I  
 	*flipped classroom structure, pivotted to hybrid in March*  
 
 Fall 2019
 
-* Math 2250: Calculus I, CRN 15611  
+* Math 2250: Calculus I  
 	*flipped classroom structure*  
 
 Spring 2019  
 
-* Math 1113: Precalculus, CRNs 20571 and 40599  
+* Math 1113: Precalculus, 2 sections  
 	*flipped classroom structure*
 
 Fall 2018 
 
-* Math 1113: Precalculus, CRN 29604
+* Math 1113: Precalculus

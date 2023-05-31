@@ -5,19 +5,20 @@ title: Service
 permalink: /service/
 ---
 
-I am currently the **graduate student ombudsperson** for the UGA math department. My main role in this position is to serve as an intermediary to discuss concerns or complaints with the department or graduate committee, especially in cases where graduate students wish to remain anonymous. I am also happy to help students understand and navigate general departmental policies and requirements.  
-
-Don't hesitate to reach out by email or drop by my office if you have anything to discuss along these lines, or if you have suggestions or concerns regarding the function of this role!
 
 ## Past Service and Activities:
 
+From Fall 2019 through Spring 2023, I served as a **graduate student ombudsperson** for the UGA math department. My main role in this position was to serve as an intermediary to discuss concerns or complaints with the department or graduate committee, especially in cases where graduate students wished to remain anonymous. I also helped students understand and navigate general departmental policies and requirements. 
+
 **UGA Directed Reading Program** project mentor:
 
-* Summer 2021: project on **p-adic numbers**, using Gouvea's "p-adic Numbers: An Introduction"  
+* Summer 2021: project on **p-adic numbers**, using Gouvea's *p-adic Numbers: An Introduction*  
 
-* Fall 2021: project on **elliptic curves**, using Silverman--Tate's "Rational Points on Elliptic Curves"  
+* Fall 2021: project on **elliptic curves**, using Silverman--Tate's *Rational Points on Elliptic Curves*  
 
-* Summer 2022: project on **coding theory**, using Ling--Xing's "Coding Theory: A First Course"  
+* Summer 2022: project on **coding theory**, using Ling--Xing's *Coding Theory: A First Course*  
+
+* Spring 2023: project on **introductory geoemtric group theory**, using Meier's *Groups, Graphs and Trees*  
 
 In the 2019--2020 academic year, I co-organized with Jack Wagner the **Street Math and Related Topics Seminar (SMARTS)**, aimed at filling beginning graduate math students in on topics one often must learn "on the streets." This seminar also featured talks on topics related to graduate student "survival" and wellbeing. 
 

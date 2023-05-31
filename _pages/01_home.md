@@ -9,18 +9,15 @@ permalink: /home/
 
 Welcome!
 
-I am a PhD candidate in mathematics at the [University of Georgia](https://www.math.uga.edu/) in Athens, GA. My advisor is [Pete L. Clark](http://alpha.math.uga.edu/~pete/). I completed my B.S. in math and physics at [Tufts University](https://math.tufts.edu/) in Medford, MA in 2017.  
-
-
-I am on the **job market** in the 2022-2023 academic year! See the research, teaching, and service tabs above for relevant information, as well as my CV linked below.  
+As of Fall 2023, I will be a Research Assistant Professor (postdoc) in the Department of Mathematics, Statistics, and Computer Science at the [University of Illinois Chicago](https://mscs.uic.edu/). I received my PhD in 2023 from the [University of Georgia](https://www.math.uga.edu/) in Athens, GA under the direction of [Pete L. Clark](http://alpha.math.uga.edu/~pete/). I completed my B.S. in math and physics at [Tufts University](https://math.tufts.edu/) in Medford, MA in 2017.  
   
-### Upcoming Travel
+### Upcoming Activities + Travel
 
-* [PANTS XXXV](https://people.math.sc.edu/filaseta/PANTS2022.html) at the University of South Carolina  
-	December 10--11, 2022  
+* [AMS MRC on Explicit Computations with Stacks](https://www.ams.org/programs/research-communities/2023MRC-Stacks)   
+	June 4--10, 2023  
 
-* 2023 Joint Mathematics Meetings in Boston, MA  
-	[speaking](https://meetings.ams.org/math/jmm2023/meetingapp.cgi/Paper/18238) Wednesday, 1/4 in the AMS Special Session on Arithmetic Geometry Informed by Computation.  
+* [Rethinking Number Theory 4](https://sites.google.com/view/rethinkingnumbertheory/projects)  
+	June 12--23, 2023  
 
 Contact:
 * Email: frederick.saia (at) uga (dot) edu 

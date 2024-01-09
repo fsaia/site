@@ -7,7 +7,7 @@ permalink: /research/
 
 
 
-My research interests lie in number theory and arithmetic geometry. In particular, I am interested in (torsion of) elliptic curves and low-dimensional abelian varieties, often in the case of extra endomorphisms and from the vantage of rational points on modular and Shimura curves. 
+My research interests lie in number theory and arithmetic geometry. In particular, I am interested in (torsion of) elliptic curves and low-dimensional abelian varieties, often in the case of extra endomorphisms and from the vantage of rational points on modular and Shimura curves, and low-degree points on curves and higher-dimensional varieties. 
 
 
 

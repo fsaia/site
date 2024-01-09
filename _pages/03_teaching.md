@@ -5,18 +5,19 @@ title: Teaching
 permalink: /teaching/
 ---
 
-[comment]: <> In Spring 2023 I am teaching Math 1113: Precalculus. Our class will utilize a flipped classroom structure emphasizing active, collaborative problem solving and learning.  
+In Spring 2024 I am teaching Math 215: Introduction to Advanced Mathematics.
+
+Spring 2024 Office Hours: Mondays and Wednesdays, 1:30 -- 2:30 p.m. in SEO 610, or by appointment.
 
 
-[comment]: <> Office hours for Spring 2023 are
-
-[comment]: <> * to be determined!  
-
-
-I have undergone the UGA Pride center's [Safe Space Training](https://lgbtcenter.uga.edu/content_page/safe-space) and consider my office a safe space for all. I hope that you do, too! I have also completed the university's [Certificate in Diversity and Inclusion](http://diversity.uga.edu/index.php/programs/article/cdi).      
+As a graduate student at UGA, I completed the UGA Pride center's [Safe Space Training](https://lgbtcenter.uga.edu/content_page/safe-space). I consider my office a safe space for all, and I hope that you do, too! I also completed UGA's [Certificate in Diversity and Inclusion](http://diversity.uga.edu/index.php/programs/article/cdi).      
 
 
 ## Past Teaching:  
+
+<font size= "5"> <span style="color: black"> At UIC: </span> </font>
+
+* Math 215: Introduction to Advanced Mathematics, 2 sections  
 
 <font size= "5"> <span style="color: black"> At UGA: </span> </font>
 

@@ -23,18 +23,18 @@ My research interests lie in number theory and arithmetic geometry. In particula
 * **CM points on Shimura curves via QM-equivariant isogeny volcanoes** [(computations)](https://github.com/fsaia/CM-Points-Shimura-Curves), [(preprint)](https://drive.google.com/file/d/1SCCfv7RPSytYqSZghVFkspes5Zo7qask/view?usp=sharing)  
 
 * **CM elliptic curves: volcanoes, reality and applications, part II** [(preprint)](https://drive.google.com/file/d/1SQwJ4HetSW6mQX-eZ_Fy4EAKF9nl5qJS/view?usp=sharing)  
-	with [Petel L. Clark](http://alpha.math.uga.edu/~pete/)
+	with [Pete L. Clark](http://alpha.math.uga.edu/~pete/)
 
 ## Publications
 	
 * **The least degree of a CM point on a modular curve** [(computations)](https://github.com/fsaia/least-cm-degree), [(pdf)](http://alpha.math.uga.edu/~pete/least_CM_degree-1226.pdf)  
-	with [Petel L. Clark](http://alpha.math.uga.edu/~pete/), [Tyler Genao](https://tylergenao.com/), and [Paul Pollack](https://pollack.uga.edu/)    
+	with [Pete L. Clark](http://alpha.math.uga.edu/~pete/), [Tyler Genao](https://tylergenao.com/), and [Paul Pollack](https://pollack.uga.edu/)    
 	*Journal of the London Mathematical Society, 2022*  
 
 <img src='-8_ram.png' style="float:right; width:32%; margin: -100px;"/>
 
 * **Chevalley-Warning at the boundary** [(pdf)](http://alpha.math.uga.edu/~pete/Chevalley_Warning_on_the_Boundary.pdf)  
-	with [Petel L. Clark](http://alpha.math.uga.edu/~pete/) and [Tyler Genao](https://tylergenao.com/)   
+	with [Pete L. Clark](http://alpha.math.uga.edu/~pete/) and [Tyler Genao](https://tylergenao.com/)   
 	*Expositiones Mathematicae, 2021*  
 
 * **Classically integral quadratic forms excepting at most two values** [(arXiv)](https://arxiv.org/abs/1608.01656)     

@@ -47,6 +47,9 @@ My research interests lie in number theory and arithmetic geometry. In particula
 
 ### Contributed Talks 
 
+* **Bielliptic Shimura curves $$X_0^D(N)$$ with nontrivial level** [(slides)](https://drive.google.com/open?id=1Se1iqC2L3wxjduEpTPXbP3CKIZqNn29m&usp=drive_fs)  
+	*CTNT -- University of Connecticut -- June 2024*  
+
 * **A volcanic approach to CM points on Shimura curves** [(slides)](https://drive.google.com/file/d/1ScokMj5fKB2mcEC4PY873ag8fCeyZ8rj/view?usp=sharing)  
 	*SRNTC, Louisiana State University -- March 2023*  
 

@@ -5,14 +5,12 @@ title: Research
 permalink: /research/
 ---
 
+My research interests lie in number theory and arithmetic geometry. In particular, I am interested in (torsion of) elliptic curves and low-dimensional abelian varieties, often in the case of extra endomorphisms and from the vantage of rational points on modular and Shimura curves, and in low-degree points on curves and on higher-dimensional varieties.  
 
-
-My research interests lie in number theory and arithmetic geometry. In particular, I am interested in (torsion of) elliptic curves and low-dimensional abelian varieties, often in the case of extra endomorphisms and from the vantage of rational points on modular and Shimura curves, and low-degree points on curves and higher-dimensional varieties. 
-
+I am also interested in involving undergraduates in research. In the Fall 2024 and Spring 2025 semesters, I will be the faculty mentor for UIC undergrad Raghav Bhutani's project on "replacement dynamics of binary quadratic forms," supported by the [LASURI](https://las.uic.edu/lasresearch/student-research/lasuri/) program.   
 
 
 [comment]: <>  ## In Preparation 
-
 
 
 ## Preprints
@@ -42,43 +40,52 @@ My research interests lie in number theory and arithmetic geometry. In particula
 	*Proceedings of the AMS, 2018*  
 
 
+
 ## Conferences and Workshops
 
+### Invited Talks 
 
-### Contributed Talks 
+* **Low degree points on product surfaces** [(slides)](https://drive.google.com/file/d/1StIQJnP5jGKKUu8X1wliPwhdLf5KPViw/view?usp=sharing)  
+	*MathFest -- Indianapolis, IN -- August 2024*  
 
-* **Bielliptic Shimura curves $$X_0^D(N)$$ with nontrivial level** [(slides)](https://drive.google.com/open?id=1Se1iqC2L3wxjduEpTPXbP3CKIZqNn29m&usp=drive_fs)  
-	*CTNT -- University of Connecticut -- June 2024*  
+* **Heegner points on $$X_0(N)$$**  
+	*Bhaskaracharya celebrating Harish-Chandra Lecture Series -- Virtual -- June 2024*  
 
-* **A volcanic approach to CM points on Shimura curves** [(slides)](https://drive.google.com/file/d/1ScokMj5fKB2mcEC4PY873ag8fCeyZ8rj/view?usp=sharing)  
-	*SRNTC, Louisiana State University -- March 2023*  
+* **Bielliptic Shimura curves $$X_0^D(N)$$ with nontrivial level** [(slides)](https://drive.google.com/open?id=1SlxsBQ77sOg_OHqjc6CDCwIh4ZmJ6ZGj&usp=drive_fs)  
+	*ANTS XVI -- MIT -- July 2024*
 
 * **A volcanic approach to CM points on Shimura curves** [(slides)](https://drive.google.com/file/d/1SW4jnTdaDrtyEUfpk_rxyQtgiKWylcyl/view?usp=sharing)   
-	*JMM Special Session on Arithmetic Geometry Informed by Computation, Boston, MA -- January 2023* 
-* **A volcanic approach to CM points on Shimura curves** [(slides)](https://drive.google.com/open?id=1SNgswVQlgWAlEkJ2OukOny0WT5BLV_9Q&authuser=freddy.v.saia%40gmail.com&usp=drive_fs)  
-	*PANTS XXXV, University of South Carolina -- December 2022*  
-
-* **A volcanic approach to CM points on Shimura curves**  
-	*Graduate Summer Conference, UGA -- July 2022*  
-	
-* **Fields of moduli, rationality, and fake elliptic curves**  
-	*Graduate Summer Conference, UGA -- July 2021*  
-
-* **No elliptic curve has a Q-rational point of order 13**  
-	*Graduate Summer Conference, UGA -- July 2020*  
-
-* **Triangular numbers and modular forms**  
-	*Graduate Summer Conference, UGA -- July 2019*  
-
-* **An axiomatic approach to homology theory**  
-	*Graduate Summer Conference, UGA -- July 2018*  
+	*Algebra & Number Theory Seminar, Emory University -- March 2023*
+	*JMM Special Session on Arithmetic Geometry Informed by Computation, Boston, MA -- January 2023*    
 
 * **Classically integral quadratic forms excepting at most two values** [(slides)](https://drive.google.com/open?id=1zhFYt1vBehf-k8IorQQDJeZ4FII6qSSP)  
 	with M. Barowsky, W. Damron, A. Mejia, and N. Schock  
 	*Joint Math Meetings, Atlanta, GA -- January 2017*  
 
 
-### Attendee
+
+### Other Conferences and Workshops Attended
+
+* **The Mordell conjecture 100 years later**  
+	*MIT -- July 2024*  
+
+* **Arizona Winter School - Abelian Varieties**  
+	*University of Arizona -- March 2024*  
+
+* **Shimura curves in the LMFDB**  
+	*Dartmouth College -- February 2024*  
+
+* **Collaborate@ICERM -- Explicit Arithmetic of Shimura Curves**  
+	*ICERM -- August 2023*  
+
+* **AMS Math Research Community -- Explcit Computations with Stacks**  
+	*Beaver Hollow, New York -- June 2023*  
+
+* **Integers 2023**  
+	*UGA -- May 2023*  
+
+* **Georgia Algebraic Geometry Symposium (GAGS) 2023**  
+	*UGA -- April 2023*  
 
 * **Virtual Number Theory and Arithmetic Geometry (VaNTAGe)**  
 	*Virtual -- Fall 2020, Summer 2021, Fall 2021*  
@@ -116,15 +123,31 @@ My research interests lie in number theory and arithmetic geometry. In particula
 	*University of Connecticut -- May 2018*
 
 
-## Seminar Talks
 
-* **A volcanic approach to CM points on Shimura curves** [(slides)](https://drive.google.com/file/d/1SdauWPzD3GxAq4x1sK173oygO5Ix7fW2/view?usp=sharing)  
-	*Algebra & Number Theory Seminar, Emory University -- March 2023*  
-	
-* **On Hindry--Silverman's _Sur le nombre de points de torsion rationnels sur une courbe elliptique_**  	*Short and Sweet Seminar (SASS), UGA -- October 2022*  
+### Contributed Talks  
 
-* **A volcanic approach to CM points on Shimura curves** [(slides)](https://drive.google.com/file/d/1SFIaD_L5qzTWFflh4q2MtCU18h-MxPrc/view?usp=sharing)  
+* **Bielliptic Shimura curves $$X_0^D(N)$$ with nontrivial level**  
+	*CTNT -- University of Connecticut -- June 2024* 
+
+* **An ultrametric space oddysey**  
+	*Math Club -- UIC -- February 2024*  
+
+* **Towards a better understanding of Shimura curves**  
+	*Number Theory Seminar -- UIC -- September 2023*  
+
+* **A volcanic approach to CM points on Shimura curves** 
+	*Colloquium -- UIC -- September 2023*    
+	*SRNTC, Louisiana State University -- March 2023*  
+	*PANTS XXXV, University of South Carolina -- December 2022*   
 	*Number Theory Seminar, UGA -- September 2022*  
+
+* **Poonen's Theorem**  
+	*Drinfeld modules learning seminar, UGA -- April 2023*  
+
+* **Explicit class field theory for Drinfeld modules**  
+	*Drinfeld modules learning seminar, UGA -- February 2023*  
+
+* **On Hindry--Silverman's _Sur le nombre de points de torsion rationnels sur une courbe elliptique_**  	*Short and Sweet Seminar (SASS), UGA -- October 2022*  
 
 * **The Chebotarev density theorem**  
 	*Catalan’s Conjecture after Mihailescu (CCAM) Reading Seminar, UGA -- November 2021*  
@@ -132,30 +155,43 @@ My research interests lie in number theory and arithmetic geometry. In particula
 * **Isogeny volcanoes**  
 	*Graduate Student Seminar, UGA -- October 2021*  
 
+* **Fields of moduli, rationality, and fake elliptic curves**  
+	*Graduate Summer Conference, UGA -- July 2021*  
+
 * **On Honda’s _Isogeny classes of abelian varieties over finite fields_**   
-	*Classical Readings in Arithmetic/Algebraic Geometry Seminar (CRAAG), UGA -- July 2021*   
+	*Classical Readings in Arithmetic/Algebraic Geometry Seminar (CRAAG), UGA -- July 2021* 
+
 * **What is a Shimura curve?**  
 	*Graduate Student Seminar, UGA -- April 2021*  
 
 * **Locally algebraic representations**  
 	*Serre on Zoom (SeZoom) reading seminar, UGA -- March 2021*  
 
-<img src='gamma0_17.jpg' style="float:right; width:30%; margin: -100px;"/>
+<img src='gamma0_17.jpg' style="float:right; width:30%; margin: -100px;"/>  
 
 * **Galois action on CM points**  
-	*Zannier on Zoom (ZaZoom) reading seminar, UGA -- October 2020*  
+	*Zannier on Zoom (ZaZoom) reading seminar, UGA -- October 2020*   
+
+* **No elliptic curve has a Q-rational point of order 13**  
+	*Graduate Summer Conference, UGA -- July 2020*  
 
 * **Sporadic CM points on Modular Curves**  
 	*Graduate Student Seminar, UGA -- April 2020*  
 
 * **Formalism of moduli problems**  
-	*Arithmetic Moduli of Elliptic Curves Reading Seminar, UGA -- Nov 2019*
+	*Arithmetic Moduli of Elliptic Curves Reading Seminar, UGA -- Nov 2019*  
 
 * **Introduction to Sage and Magma**  
-	*Street Math and Related Topics Seminar (SMARTS), UGA -- Nov 2019*  
+	*Street Math and Related Topics Seminar (SMARTS), UGA -- Nov 2019*   
 
 * **Modular forms part 2**  
 	*Arithmetic Moduli of Elliptic Curves Reading Seminar, UGA -- Aug 2019*  
+
+* **Triangular numbers and modular forms**  
+	*Graduate Summer Conference, UGA -- July 2019*  
+
+* **An axiomatic approach to homology theory**  
+	*Graduate Summer Conference, UGA -- July 2018*
 
 * **Introduction to modular forms**  
 	*Graduate Algebraic Geometry Seminar, UGA -- March 2019*  

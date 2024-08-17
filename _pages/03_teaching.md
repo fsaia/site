@@ -5,9 +5,9 @@ title: Teaching
 permalink: /teaching/
 ---
 
-In Spring 2024 I am teaching Math 215: Introduction to Advanced Mathematics.
+In Fall 2024 I am teaching Math 180: Calculus.  
 
-Spring 2024 Office Hours: Mondays and Wednesdays, 1:30 -- 2:30 p.m. in SEO 610, or by appointment.
+Fall 2024 Office Hours: TBA in [SEO 610](https://maps.app.goo.gl/164Y2xRb4RtSyTyd9), or by appointment.  
 
 
 As a graduate student at UGA, I completed the UGA Pride center's [Safe Space Training](https://lgbtcenter.uga.edu/content_page/safe-space). I consider my office a safe space for all, and I hope that you do, too! I also completed UGA's [Certificate in Diversity and Inclusion](http://diversity.uga.edu/index.php/programs/article/cdi).      
@@ -16,6 +16,12 @@ As a graduate student at UGA, I completed the UGA Pride center's [Safe Space Tra
 ## Past Teaching:  
 
 <font size= "5"> <span style="color: black"> At UIC: </span> </font>
+
+Spring 2024
+
+* Math 215: Introduction to Advanced Mathematics ([Course Notes](https://drive.google.com/file/d/1Su9hBU4VhHFGHW0zZVW_gRh48vga_NQ-/view?usp=sharing))  
+
+Fall 2023  
 
 * Math 215: Introduction to Advanced Mathematics, 2 sections  
 

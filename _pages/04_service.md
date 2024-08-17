@@ -6,7 +6,7 @@ permalink: /service/
 ---
 
 
-## Past Service and Activities:
+In Spring 2024, I was a member of the **Learning Outcomes Committee for Math 215: Introduction to Advanced Mathematics** at UIC.  
 
 From Fall 2019 through Spring 2023, I served as a **graduate student ombudsperson** for the UGA math department. My main role in this position was to serve as an intermediary to discuss concerns or complaints with the department or graduate committee, especially in cases where graduate students wished to remain anonymous. I also helped students understand and navigate general departmental policies and requirements. 
 

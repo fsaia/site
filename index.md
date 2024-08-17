@@ -10,7 +10,7 @@ layout: default
 
 Welcome!
 
-I am a Research Assistant Professor (postdoc) in the Department of Mathematics, Statistics, and Computer Science at the [University of Illinois Chicago](https://mscs.uic.edu/), working in number theory and arithmetic geometry. 
+I am a Research Assistant Professor (postdoc) in the Department of Mathematics, Statistics, and Computer Science at the [University of Illinois Chicago](https://mscs.uic.edu/), working in number theory.  
 
 I received my PhD in 2023 from the [University of Georgia](https://www.math.uga.edu/) in Athens, GA under the direction of [Pete L. Clark](http://alpha.math.uga.edu/~pete/). I completed my B.S. in math and physics at [Tufts University](https://math.tufts.edu/) in Medford, MA in 2017.  
   

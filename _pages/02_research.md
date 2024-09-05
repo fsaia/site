@@ -52,7 +52,8 @@ I am also interested in involving undergraduates in research. In the Fall 2024 a
 	*Bhaskaracharya celebrating Harish-Chandra Lecture Series, Virtual -- June 2024*  
 
 * **Bielliptic Shimura curves $$X_0^D(N)$$ with nontrivial level** [(slides)](https://drive.google.com/open?id=1SlxsBQ77sOg_OHqjc6CDCwIh4ZmJ6ZGj&usp=drive_fs)  
-	*ANTS XVI, MIT -- July 2024*
+	*ANTS XVI, MIT -- July 2024*  
+	*Algebra and Number Theory Seminar, Dartmouth College -- March 2024*  
 
 * **A volcanic approach to CM points on Shimura curves** [(slides)](https://drive.google.com/file/d/1SW4jnTdaDrtyEUfpk_rxyQtgiKWylcyl/view?usp=sharing)   
 	*Algebra & Number Theory Seminar, Emory University -- March 2023*  

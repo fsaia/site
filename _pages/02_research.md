@@ -46,16 +46,16 @@ I am also interested in involving undergraduates in research. In the Fall 2024 a
 ### Invited Talks 
 
 * **Low degree points on product surfaces** [(slides)](https://drive.google.com/file/d/1StIQJnP5jGKKUu8X1wliPwhdLf5KPViw/view?usp=sharing)  
-	*MathFest -- Indianapolis, IN -- August 2024*  
+	*MathFest, Indianapolis, IN -- August 2024*  
 
 * **Heegner points on $$X_0(N)$$**  
-	*Bhaskaracharya celebrating Harish-Chandra Lecture Series -- Virtual -- June 2024*  
+	*Bhaskaracharya celebrating Harish-Chandra Lecture Series, Virtual -- June 2024*  
 
 * **Bielliptic Shimura curves $$X_0^D(N)$$ with nontrivial level** [(slides)](https://drive.google.com/open?id=1SlxsBQ77sOg_OHqjc6CDCwIh4ZmJ6ZGj&usp=drive_fs)  
-	*ANTS XVI -- MIT -- July 2024*
+	*ANTS XVI, MIT -- July 2024*
 
 * **A volcanic approach to CM points on Shimura curves** [(slides)](https://drive.google.com/file/d/1SW4jnTdaDrtyEUfpk_rxyQtgiKWylcyl/view?usp=sharing)   
-	*Algebra & Number Theory Seminar, Emory University -- March 2023*
+	*Algebra & Number Theory Seminar, Emory University -- March 2023*  
 	*JMM Special Session on Arithmetic Geometry Informed by Computation, Boston, MA -- January 2023*    
 
 * **Classically integral quadratic forms excepting at most two values** [(slides)](https://drive.google.com/open?id=1zhFYt1vBehf-k8IorQQDJeZ4FII6qSSP)  
@@ -135,7 +135,7 @@ I am also interested in involving undergraduates in research. In the Fall 2024 a
 * **Towards a better understanding of Shimura curves**  
 	*Number Theory Seminar -- UIC -- September 2023*  
 
-* **A volcanic approach to CM points on Shimura curves** 
+* **A volcanic approach to CM points on Shimura curves**   
 	*Colloquium -- UIC -- September 2023*    
 	*SRNTC, Louisiana State University -- March 2023*  
 	*PANTS XXXV, University of South Carolina -- December 2022*   

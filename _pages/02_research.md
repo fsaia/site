@@ -46,14 +46,14 @@ I am also interested in involving undergraduates in research. In the Fall 2024 a
 ### Invited Talks 
 
 * **Low degree points on product surfaces** [(slides)](https://drive.google.com/file/d/1StIQJnP5jGKKUu8X1wliPwhdLf5KPViw/view?usp=sharing)  
-	*MathFest, Indianapolis, IN -- August 2024*  
-
-* **Heegner points on $$X_0(N)$$**  
-	*Bhaskaracharya celebrating Harish-Chandra Lecture Series, Virtual -- June 2024*  
+	*MathFest, Indianapolis, IN -- August 2024*   
 
 * **Bielliptic Shimura curves $$X_0^D(N)$$ with nontrivial level** [(slides)](https://drive.google.com/open?id=1SlxsBQ77sOg_OHqjc6CDCwIh4ZmJ6ZGj&usp=drive_fs)  
 	*ANTS XVI, MIT -- July 2024*  
 	*Algebra and Number Theory Seminar, Dartmouth College -- March 2024*  
+
+* **Heegner points on $$X_0(N)$$**  
+	*Bhaskaracharya celebrating Harish-Chandra Lecture Series, Virtual -- June 2024*  
 
 * **A volcanic approach to CM points on Shimura curves** [(slides)](https://drive.google.com/file/d/1SW4jnTdaDrtyEUfpk_rxyQtgiKWylcyl/view?usp=sharing)   
 	*Algebra & Number Theory Seminar, Emory University -- March 2023*  
@@ -191,11 +191,13 @@ I am also interested in involving undergraduates in research. In the Fall 2024 a
 * **Triangular numbers and modular forms**  
 	*Graduate Summer Conference, UGA -- July 2019*  
 
-* **An axiomatic approach to homology theory**  
-	*Graduate Summer Conference, UGA -- July 2018*
-
 * **Introduction to modular forms**  
 	*Graduate Algebraic Geometry Seminar, UGA -- March 2019*  
+
+* **An axiomatic approach to homology theory**  
+	*Graduate Summer Conference, UGA -- July 2018*  
+
+
 
 
 

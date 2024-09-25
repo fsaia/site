@@ -13,18 +13,19 @@ I am also interested in involving undergraduates in research. In the Fall 2024 a
 [comment]: <>  ## In Preparation 
 
 
-## Preprints
-
-* **Bielliptic Shimura curves $$X_0^D(N)$$ with nontrivial level** [(computations)](https://github.com/fsaia/Bielliptic-Shimura-Curves), [(preprint)](https://arxiv.org/abs/2401.08829)  
-	with [Oana Padurariu](https://sites.google.com/view/oanapadurariu/home)  
+## Preprints  
 
 * **CM points on Shimura curves via QM-equivariant isogeny volcanoes** [(computations)](https://github.com/fsaia/CM-Points-Shimura-Curves), [(preprint)](https://drive.google.com/file/d/1SCCfv7RPSytYqSZghVFkspes5Zo7qask/view?usp=sharing)  
 
 * **CM elliptic curves: volcanoes, reality and applications, part II** [(preprint)](https://drive.google.com/file/d/1SQwJ4HetSW6mQX-eZ_Fy4EAKF9nl5qJS/view?usp=sharing)  
 	with [Pete L. Clark](http://alpha.math.uga.edu/~pete/)
 
-## Publications
-	
+## Publications  
+
+* **Bielliptic Shimura curves $$X_0^D(N)$$ with nontrivial level** [(computations)](https://github.com/fsaia/Bielliptic-Shimura-Curves), [(arXiv)](https://arxiv.org/abs/2401.08829)  
+	with [Oana Padurariu](https://sites.google.com/view/oanapadurariu/home)  
+	*Research in Number Theory, to appear*  
+
 * **The least degree of a CM point on a modular curve** [(computations)](https://github.com/fsaia/least-cm-degree), [(pdf)](http://alpha.math.uga.edu/~pete/least_CM_degree-1226.pdf)  
 	with [Pete L. Clark](http://alpha.math.uga.edu/~pete/), [Tyler Genao](https://tylergenao.com/), and [Paul Pollack](https://pollack.uga.edu/)    
 	*Journal of the London Mathematical Society, 2022*  
@@ -52,7 +53,7 @@ I am also interested in involving undergraduates in research. In the Fall 2024 a
 	*ANTS XVI, MIT -- July 2024*  
 	*Algebra and Number Theory Seminar, Dartmouth College -- March 2024*  
 
-* **Heegner points on $$X_0(N)$$**  
+* **Heegner points on $$X_0(N)$$**  [(slides)](https://drive.google.com/file/d/1Sx9E8OdNBuUbzsxrdPyf-Qg7BDdynrd-/view?usp=sharing) [(video)](https://www.youtube.com/watch?v=bofR9OGHv2g)  
 	*Bhaskaracharya celebrating Harish-Chandra Lecture Series, Virtual -- June 2024*  
 
 * **A volcanic approach to CM points on Shimura curves** [(slides)](https://drive.google.com/file/d/1SW4jnTdaDrtyEUfpk_rxyQtgiKWylcyl/view?usp=sharing)   

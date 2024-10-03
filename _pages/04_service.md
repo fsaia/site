@@ -18,7 +18,7 @@ From Fall 2019 through Spring 2023, I served as a **graduate student ombudsperso
 
 * Summer 2022: project on **coding theory**, using Ling--Xing's *Coding Theory: A First Course*  
 
-* Spring 2023: project on **introductory geoemtric group theory**, using Meier's *Groups, Graphs and Trees*  
+* Spring 2023: project on **introductory geometric group theory**, using Meier's *Groups, Graphs and Trees*  
 
 In the 2019--2020 academic year, I co-organized with Jack Wagner the **Street Math and Related Topics Seminar (SMARTS)**, aimed at filling beginning graduate math students in on topics one often must learn "on the streets." This seminar also featured talks on topics related to graduate student "survival" and wellbeing. 
 

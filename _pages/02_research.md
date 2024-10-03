@@ -15,7 +15,7 @@ I am also interested in involving undergraduates in research. In the Fall 2024 a
 
 ## Preprints  
 
-* **CM points on Shimura curves via QM-equivariant isogeny volcanoes** [(computations)](https://github.com/fsaia/CM-Points-Shimura-Curves), [(preprint)](https://drive.google.com/file/d/1SCCfv7RPSytYqSZghVFkspes5Zo7qask/view?usp=sharing)  
+* **CM points on Shimura curves via QM-equivariant isogeny volcanoes** [(computations)](https://github.com/fsaia/CM-Points-Shimura-Curves), [(arXiv)](https://arxiv.org/abs/2212.12635)  
 
 * **CM elliptic curves: volcanoes, reality and applications, part II** [(preprint)](https://drive.google.com/file/d/1SQwJ4HetSW6mQX-eZ_Fy4EAKF9nl5qJS/view?usp=sharing)  
 	with [Pete L. Clark](http://alpha.math.uga.edu/~pete/)

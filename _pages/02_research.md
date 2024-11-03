@@ -15,12 +15,16 @@ I am also interested in involving undergraduates in research. In the Fall 2024 a
 
 ## Preprints  
 
-* **CM points on Shimura curves via QM-equivariant isogeny volcanoes** [(computations)](https://github.com/fsaia/CM-Points-Shimura-Curves), [(arXiv)](https://arxiv.org/abs/2212.12635)  
+* **Counting points on Atkin--Lehner quotients of some genus $$0$$ Shimura curves** (Draft available upon request)  
+	with [Tyler Genao](https://tylergenao.com/), [Tristan Phillips](https://sites.google.com/site/tristanphillipsmath/home), [Tim Santens](https://sites.google.com/view/timsantens/), and [John Yin](https://sites.google.com/view/johng23)  
 
 * **CM elliptic curves: volcanoes, reality and applications, part II** [(preprint)](https://drive.google.com/file/d/1SQwJ4HetSW6mQX-eZ_Fy4EAKF9nl5qJS/view?usp=sharing)  
-	with [Pete L. Clark](http://alpha.math.uga.edu/~pete/)
+	with [Pete L. Clark](http://alpha.math.uga.edu/~pete/)  
 
 ## Publications  
+
+* **CM points on Shimura curves via QM-equivariant isogeny volcanoes** [(computations)](https://github.com/fsaia/CM-Points-Shimura-Curves), [(arXiv)](https://arxiv.org/abs/2212.12635)  
+	*Pacific Journal of Mathematics, to appear*  
 
 * **Bielliptic Shimura curves $$X_0^D(N)$$ with nontrivial level** [(computations)](https://github.com/fsaia/Bielliptic-Shimura-Curves), [(arXiv)](https://arxiv.org/abs/2401.08829)  
 	with [Oana Padurariu](https://sites.google.com/view/oanapadurariu/home)  

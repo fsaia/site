@@ -29,7 +29,7 @@ Contact:
 * Email: fsaia (at) uic (dot) edu 
 * Office: SEO 610
 
-[CV](https://drive.google.com/file/d/1Nom9FVFOhQei7S1km4OEKjsCzQw3AE6u/view?usp=sharing)
+[CV](https://drive.google.com/open?id=1XRbHBVtFHX0CR19FEnn8QhG1OLDe2Qit&usp=drive_fs)
 <br />
 <br />
 <br />

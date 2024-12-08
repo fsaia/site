@@ -23,26 +23,26 @@ I am also interested in involving undergraduates in research. In the Fall 2024 a
 
 ## Publications  
 
-* **CM points on Shimura curves via QM-equivariant isogeny volcanoes** [(computations)](https://github.com/fsaia/CM-Points-Shimura-Curves), [(arXiv)](https://arxiv.org/abs/2212.12635)  
-	*Pacific Journal of Mathematics, to appear*  
-
-* **Bielliptic Shimura curves $$X_0^D(N)$$ with nontrivial level** [(computations)](https://github.com/fsaia/Bielliptic-Shimura-Curves), [(arXiv)](https://arxiv.org/abs/2401.08829)  
+* **Bielliptic Shimura curves $$X_0^D(N)$$ with nontrivial level** [(computations)](https://github.com/fsaia/Bielliptic-Shimura-Curves), [(arXiv)](https://arxiv.org/abs/2401.08829), [(pub)](https://rdcu.be/d2kJs)    
 	with [Oana Padurariu](https://sites.google.com/view/oanapadurariu/home)  
-	*Research in Number Theory, to appear*  
+	*Research in Number Theory 11, 2 (2025)*  
+
+* **CM points on Shimura curves via QM-equivariant isogeny volcanoes** [(computations)](https://github.com/fsaia/CM-Points-Shimura-Curves), [(arXiv)](https://arxiv.org/abs/2212.12635), [(pub)](https://msp.org/pjm/2024/332-2/p06.xhtml)    
+	*Pacific Journal of Mathematics, Vol. 332 (2024), no. 2, 321–384*  
 
 * **The least degree of a CM point on a modular curve** [(computations)](https://github.com/fsaia/least-cm-degree), [(pdf)](http://alpha.math.uga.edu/~pete/least_CM_degree-1226.pdf)  
 	with [Pete L. Clark](http://alpha.math.uga.edu/~pete/), [Tyler Genao](https://tylergenao.com/), and [Paul Pollack](https://pollack.uga.edu/)    
-	*Journal of the London Mathematical Society, 2022*  
+	*Journal of the London Mathematical Society (2) 105 (2022), no. 2, 825–883*    
 
 <img src='-8_ram.png' style="float:right; width:32%; margin: -100px;"/>
 
 * **Chevalley-Warning at the boundary** [(pdf)](http://alpha.math.uga.edu/~pete/Chevalley_Warning_on_the_Boundary.pdf)  
 	with [Pete L. Clark](http://alpha.math.uga.edu/~pete/) and [Tyler Genao](https://tylergenao.com/)   
-	*Expositiones Mathematicae, 2021*  
+	*Expositiones Mathematicae 39 (2021), no. 4, 604–623*  
 
 * **Classically integral quadratic forms excepting at most two values** [(arXiv)](https://arxiv.org/abs/1608.01656)     
 	with Madeleine Barowsky, Will Damron, Andres Mejia, [Nolan Schock](https://nschock.github.io/), and [Kate Thompson](https://sites.google.com/site/katethompsonhomepage/)     
-	*Proceedings of the AMS, 2018*  
+	*Proceedings of the AMS 146 (2018), no. 9, 3661–3677*    
 
 
 

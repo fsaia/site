@@ -5,9 +5,9 @@ title: Teaching
 permalink: /teaching/
 ---
 
-In Fall 2024 I am teaching Math 180: Calculus.  
+In Spring 2025 I am teaching Math 210: Multivariable Calculus and [Math 525: Elliptic Curves](https://fsaia.github.io/site/math_525/).  
 
-Fall 2024 Office Hours: MW 12-1 p.m. in [MSLC](https://mslc.uic.edu/), or by appointment.  
+Spring 2025 Office Hours: MW 12:30-1:30 p.m. in SEO 610, or by appointment.  
 
 
 As a graduate student at UGA, I completed the UGA Pride center's [Safe Space Training](https://lgbtcenter.uga.edu/content_page/safe-space). I consider my office a safe space for all, and I hope that you do, too! I also completed UGA's [Certificate in Diversity and Inclusion](http://diversity.uga.edu/index.php/programs/article/cdi).      
@@ -16,6 +16,11 @@ As a graduate student at UGA, I completed the UGA Pride center's [Safe Space Tra
 ## Past Teaching:  
 
 <font size= "5"> <span style="color: black"> At UIC: </span> </font>
+
+Fall 2024
+
+* Math 180: Calculus I
+	*hybrid classroom structure*
 
 Spring 2024
 

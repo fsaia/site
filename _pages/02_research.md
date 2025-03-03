@@ -50,6 +50,9 @@ I am also interested in involving undergraduates in research. In the Fall 2024 a
 
 ### Invited Talks 
 
+* **Effective surjectivity of Galois representations of products of elliptic curves over function fields** [(slides)](https://drive.google.com/open?id=1N8cp1K1-5m6y3VB7iuzBO-yNyrtZBqi9&usp=drive_fs)  
+	*Number Theory Seminar, The Ohio State University -- March 2025*  
+
 * **Low degree points on product surfaces** [(slides)](https://drive.google.com/file/d/1StIQJnP5jGKKUu8X1wliPwhdLf5KPViw/view?usp=sharing)  
 	*MathFest, Indianapolis, IN -- August 2024*   
 

@@ -50,8 +50,9 @@ I am also interested in involving undergraduates in research. In the Fall 2024 a
 
 ### Invited Talks 
 
-* **Effective surjectivity of Galois representations of products of elliptic curves over function fields** [(slides)](https://drive.google.com/open?id=1N8cp1K1-5m6y3VB7iuzBO-yNyrtZBqi9&usp=drive_fs)  
+* **Effective surjectivity of Galois representations of products of elliptic curves over function fields** [(slides)](https://drive.google.com/open?id=1DFX5Zv2tiKGG70hx73PoT0utiMzJztEW&usp=drive_fs)    
 	*Number Theory Seminar, The Ohio State University -- March 2025*  
+	*AMS Sectional Special Session on Counting and Asymptotics in Number Theory, Hartford, CT -- April 2025*    
 
 * **Low degree points on product surfaces** [(slides)](https://drive.google.com/file/d/1StIQJnP5jGKKUu8X1wliPwhdLf5KPViw/view?usp=sharing)  
 	*MathFest, Indianapolis, IN -- August 2024*   
@@ -119,10 +120,10 @@ I am also interested in involving undergraduates in research. In the Fall 2024 a
 	*University of Arizona -- March 2020*  
 
 * **Modular Forms, Arithmetic, and Women in Mathematics (MAAIM)**  
-	*Emory University -- Nov 2019*
+	*Emory University -- November 2019*
 
 * **Midwest Arithmetic Geometry and Number Theory Series (MAGNTS)**  
-	*Ohio State University -- Oct 2019*
+	*The Ohio State University -- October 2019*
 
 * **CMI-HIMR Summer School in Computational Number Theory**  
 	*University of Bristol -- June 2019*
@@ -133,10 +134,14 @@ I am also interested in involving undergraduates in research. In the Fall 2024 a
 
 
 
-### Contributed Talks  
+### Contributed and Internal Seminar Talks  
+
+* **Effective surjectivity of Galois representations of products of elliptic curves over function fields**   
+	*Number Theory Seminar -- UIC -- February 2025*  
 
 * **Bielliptic Shimura curves $$X_0^D(N)$$ with nontrivial level**  
 	*CTNT -- University of Connecticut -- June 2024* 
+	*Number Theory Seminar -- UIC -- October 2024*  
 
 * **An ultrametric space oddysey**  
 	*Math Club -- UIC -- February 2024*  
@@ -188,13 +193,13 @@ I am also interested in involving undergraduates in research. In the Fall 2024 a
 	*Graduate Student Seminar, UGA -- April 2020*  
 
 * **Formalism of moduli problems**  
-	*Arithmetic Moduli of Elliptic Curves Reading Seminar, UGA -- Nov 2019*  
+	*Arithmetic Moduli of Elliptic Curves Reading Seminar, UGA -- November 2019*  
 
 * **Introduction to Sage and Magma**  
-	*Street Math and Related Topics Seminar (SMARTS), UGA -- Nov 2019*   
+	*Street Math and Related Topics Seminar (SMARTS), UGA -- November 2019*   
 
 * **Modular forms part 2**  
-	*Arithmetic Moduli of Elliptic Curves Reading Seminar, UGA -- Aug 2019*  
+	*Arithmetic Moduli of Elliptic Curves Reading Seminar, UGA -- August 2019*  
 
 * **Triangular numbers and modular forms**  
 	*Graduate Summer Conference, UGA -- July 2019*  

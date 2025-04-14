@@ -15,7 +15,7 @@ I am also interested in involving undergraduates in research. In the Fall 2024 a
 
 ## Preprints  
 
-* **Counting points on Atkin--Lehner quotients of some genus $$0$$ Shimura curves** (Draft available upon request)  
+* **Counting points on Atkin--Lehner quotients of some genus $$0$$ Shimura curves** [(preprint)](https://drive.google.com/open?id=1inQ619dsvHOdSJr60H__YCSth28T7gIz&usp=drive_fs)  
 	with [Tyler Genao](https://tylergenao.com/), [Tristan Phillips](https://sites.google.com/site/tristanphillipsmath/home), [Tim Santens](https://sites.google.com/view/timsantens/), and [John Yin](https://sites.google.com/view/johng23)  
 
 * **CM elliptic curves: volcanoes, reality and applications, part II** [(preprint)](https://drive.google.com/file/d/1SQwJ4HetSW6mQX-eZ_Fy4EAKF9nl5qJS/view?usp=sharing)  

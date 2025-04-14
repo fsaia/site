@@ -22,6 +22,9 @@ Fall 2024
 * Math 180: Calculus I
 	*hybrid classroom structure*
 
+<img src='SCB.png' style="float:right; width:43%; margin: -100px;"/>
+
+
 Spring 2024
 
 * Math 215: Introduction to Advanced Mathematics ([Course Notes](https://drive.google.com/file/d/1Su9hBU4VhHFGHW0zZVW_gRh48vga_NQ-/view?usp=sharing))  
@@ -36,6 +39,8 @@ Spring 2023
 
 * Math 1113: Precalculus, 2 sections  
 	*flipped classroom structure*  
+
+<img src='level_curves.png' style="float:right; width:30%; margin: -100px;"/>
 
 Fall 2022
 
@@ -59,6 +64,8 @@ Summer 2021
 
 * Graduate TA for 2021 [PCMI Undergraduate Summer School](https://www.ias.edu/pcmi)    
 	*Topic: Quadratic forms, Milnor K-theory, and Arithmetic*  
+
+<img src='saddle.png' style="float:right; width:30%; margin: -100px;"/>
 
 Spring 2021
 

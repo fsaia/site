@@ -9,7 +9,6 @@ In Spring 2025 I am teaching Math 210: Multivariable Calculus and [Math 525: Ell
 
 Spring 2025 Office Hours: MW 12:30-1:30 p.m. in SEO 610, or by appointment.  
 
-
 As a graduate student at UGA, I completed the UGA Pride center's [Safe Space Training](https://lgbtcenter.uga.edu/content_page/safe-space). I consider my office a safe space for all, and I hope that you do, too! I also completed UGA's [Certificate in Diversity and Inclusion](http://diversity.uga.edu/index.php/programs/article/cdi).      
 
 
@@ -39,8 +38,6 @@ Spring 2023
 
 * Math 1113: Precalculus, 2 sections  
 	*flipped classroom structure*  
-
-<img src='level_curves.png' style="float:right; width:30%; margin: -100px;"/>
 
 Fall 2022
 

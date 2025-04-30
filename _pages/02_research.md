@@ -7,13 +7,16 @@ permalink: /research/
 
 My research interests lie in number theory and arithmetic geometry. In particular, I am interested in (torsion of) elliptic curves and low-dimensional abelian varieties, often in the case of extra endomorphisms and from the vantage of rational points on modular and Shimura curves, and in low-degree points on curves and on higher-dimensional varieties.  
 
-I am also interested in involving undergraduates in research. In the Fall 2024 and Spring 2025 semesters, I will be the faculty mentor for UIC undergrad Raghav Bhutani's project on "replacement dynamics of binary quadratic forms," supported by the [LASURI](https://las.uic.edu/lasresearch/student-research/lasuri/) program.   
+I am also interested in involving undergraduates in research. In the 2024-2025 academic year, I mentored UIC undergrad Raghav Bhutani's project on "Replacement dynamics of binary quadratic forms," supported by the [LASURI](https://las.uic.edu/lasresearch/student-research/lasuri/) program.   
 
 
 [comment]: <>  ## In Preparation 
 
 
 ## Preprints  
+
+* **Replacement dynamics of binary quadratic forms** [(preprint)](https://drive.google.com/open?id=107lX6URma4CRxumFyfwhCJanVrrJ8oi6&usp=drive_fs)  
+	with Raghav Bhutani  
 
 * **Counting points on Atkin--Lehner quotients of some genus $$0$$ Shimura curves** [(preprint)](https://drive.google.com/open?id=1inQ619dsvHOdSJr60H__YCSth28T7gIz&usp=drive_fs)  
 	with [Tyler Genao](https://tylergenao.com/), [Tristan Phillips](https://sites.google.com/site/tristanphillipsmath/home), [Tim Santens](https://sites.google.com/view/timsantens/), and [John Yin](https://sites.google.com/view/johng23)  
@@ -51,9 +54,9 @@ I am also interested in involving undergraduates in research. In the Fall 2024 a
 ### Invited Talks 
 
 * **Effective surjectivity of Galois representations of products of elliptic curves over function fields** [(slides)](https://drive.google.com/open?id=1DFX5Zv2tiKGG70hx73PoT0utiMzJztEW&usp=drive_fs)    
+	*AMS Sectional Special Session on Counting and Asymptotics in Number Theory, Hartford, CT -- April 2025*  
 	*Number Theory Seminar, The Ohio State University -- March 2025*  
-	*AMS Sectional Special Session on Counting and Asymptotics in Number Theory, Hartford, CT -- April 2025*    
-
+	  
 * **Low degree points on product surfaces** [(slides)](https://drive.google.com/file/d/1StIQJnP5jGKKUu8X1wliPwhdLf5KPViw/view?usp=sharing)  
 	*MathFest, Indianapolis, IN -- August 2024*   
 
@@ -107,6 +110,8 @@ I am also interested in involving undergraduates in research. In the Fall 2024 a
 * **Mathematics Teacher-Scholar Symposium (MaTSS)**  
 	*Virtual -- May 2021*
 
+<img src='gamma0_17.jpg' style="float:right; width:30%; margin: -100px;"/>  
+
 * **Connecticut Number Theory Conference (CTNT)**  
 	*Virtual -- June 2020*  
 
@@ -140,9 +145,9 @@ I am also interested in involving undergraduates in research. In the Fall 2024 a
 	*Number Theory Seminar -- UIC -- February 2025*  
 
 * **Bielliptic Shimura curves $$X_0^D(N)$$ with nontrivial level**  
-	*CTNT -- University of Connecticut -- June 2024* 
 	*Number Theory Seminar -- UIC -- October 2024*  
-
+	*CTNT -- University of Connecticut -- June 2024*  
+	 
 * **An ultrametric space oddysey**  
 	*Math Club -- UIC -- February 2024*  
 
@@ -180,8 +185,6 @@ I am also interested in involving undergraduates in research. In the Fall 2024 a
 
 * **Locally algebraic representations**  
 	*Serre on Zoom (SeZoom) reading seminar, UGA -- March 2021*  
-
-<img src='gamma0_17.jpg' style="float:right; width:30%; margin: -100px;"/>  
 
 * **Galois action on CM points**  
 	*Zannier on Zoom (ZaZoom) reading seminar, UGA -- October 2020*   

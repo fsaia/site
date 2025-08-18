@@ -9,7 +9,7 @@ permalink: /home/
 
 Welcome!  
 
-I am a Research Assistant Professor in the MSCS department the [University of Illinois Chicago](https://mscs.uic.edu/) working in number theory. My postdoctoral mentor is [Alina Cojocaru](https://www.alinacarmencojocaru.com/acc-about.html). 
+I am a Research Assistant Professor in the MSCS department the [University of Illinois Chicago](https://mscs.uic.edu/) working in number theory. My postdoctoral mentor is [Alina Cojocaru](https://www.alinacarmencojocaru.com/acc-main.html). 
 
 I received my PhD in 2023 from the [University of Georgia](https://www.math.uga.edu/) in Athens, GA under the direction of [Pete L. Clark](http://alpha.math.uga.edu/~pete/). I completed my B.S. in math and physics at [Tufts University](https://math.tufts.edu/) in Medford, MA in 2017.  
   

@@ -5,11 +5,11 @@ title: Home
 permalink: /home/
 ---
 
-<img src='site-photo-2-crop.jpeg' style="float:right; width:30%; margin:0px;"/>
+<img src='site-photo.jpg' style="float:right; width:30%; margin:0px;"/>
 
-Welcome!
+Welcome!  
 
-I am a Research Assistant Professor (postdoc) in the Department of Mathematics, Statistics, and Computer Science at the [University of Illinois Chicago](https://mscs.uic.edu/), working in number theory.  
+I am a Research Assistant Professor in the MSCS department the [University of Illinois Chicago](https://mscs.uic.edu/) working in number theory. My postdoctoral mentor is [Alina Cojocaru](https://www.alinacarmencojocaru.com/acc-about.html). 
 
 I received my PhD in 2023 from the [University of Georgia](https://www.math.uga.edu/) in Athens, GA under the direction of [Pete L. Clark](http://alpha.math.uga.edu/~pete/). I completed my B.S. in math and physics at [Tufts University](https://math.tufts.edu/) in Medford, MA in 2017.  
   

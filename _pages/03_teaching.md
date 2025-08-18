@@ -5,9 +5,10 @@ title: Teaching
 permalink: /teaching/
 ---
 
-In Spring 2025 I am teaching Math 210: Multivariable Calculus and [Math 525: Elliptic Curves](https://fsaia.github.io/site/math_525/).  
+In Fall 2025 I am teaching two sections of Math 210: Multivariable Calculus.  
 
-Spring 2025 Office Hours: MW 12:30-1:30 p.m. in SEO 610, or by appointment.  
+Fall 2025 Office Hours: (TBA!) in SEO 610, or by appointment.  
+
 
 As a graduate student at UGA, I completed the UGA Pride center's [Safe Space Training](https://lgbtcenter.uga.edu/content_page/safe-space). I consider my office a safe space for all, and I hope that you do, too! I also completed UGA's [Certificate in Diversity and Inclusion](http://diversity.uga.edu/index.php/programs/article/cdi).      
 
@@ -15,6 +16,12 @@ As a graduate student at UGA, I completed the UGA Pride center's [Safe Space Tra
 ## Past Teaching:  
 
 <font size= "5"> <span style="color: black"> At UIC: </span> </font>
+
+Spring 2025  
+
+* Math 210: Multivariable Calculus  ([Review Notes](https://drive.google.com/open?id=1HjOwl3FgefYl1q5MUiHU3fAJVW-L_2rX&usp=drive_fs))  
+
+* [Math 525: Elliptic Curves](http://127.0.0.1:4000/math_525/).  
 
 Fall 2024
 

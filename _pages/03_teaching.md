@@ -21,7 +21,7 @@ Spring 2025
 
 * Math 210: Multivariable Calculus  ([Review Notes](https://drive.google.com/open?id=1HjOwl3FgefYl1q5MUiHU3fAJVW-L_2rX&usp=drive_fs))  
 
-* [Math 525: Elliptic Curves](http://127.0.0.1:4000/math_525/).  
+* [Math 525: Elliptic Curves](http://fsaia.github.io/site/math_525/).  
 
 Fall 2024
 

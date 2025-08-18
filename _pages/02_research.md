@@ -5,15 +5,18 @@ title: Research
 permalink: /research/
 ---
 
-My research interests lie in number theory and arithmetic geometry. In particular, I am interested in (torsion of) elliptic curves and low-dimensional abelian varieties, often in the case of extra endomorphisms and from the vantage of rational points on modular and Shimura curves, and in low-degree points on curves and on higher-dimensional varieties.  
+My research interests lie in number theory and arithmetic geometry. In particular, I am interested in both theoretical and computational aspects of the arithmetic of elliptic curves and higher-dimensional abelian varieties, modular and Shimura curves, Galois representations, and low-degree points on varieties.  
 
-I am also interested in involving undergraduates in research. In the 2024-2025 academic year, I mentored UIC undergrad Raghav Bhutani's project on "Replacement dynamics of binary quadratic forms," supported by the [LASURI](https://las.uic.edu/lasresearch/student-research/lasuri/) program.   
+I am also interested in involving students in research. In the 2024-2025 academic year, I mentored UIC undergrad Raghav Bhutani's project titled "Replacement dynamics of binary quadratic forms," supported by the [LASURI](https://las.uic.edu/lasresearch/student-research/lasuri/) program.   
 
 
 [comment]: <>  ## In Preparation 
 
 
 ## Preprints  
+
+* **Point counts, automorphisms, and gonalities of Shimura curves** [(preprint)](https://drive.google.com/open?id=1XPTi7WijH1pNq14BG7EM5swEKJ4FEWFz&usp=drive_fs)  
+	with [Pietro Mercuri](https://sites.google.com/view/mercuriptr/home), [Oana Padurariu](https://sites.google.com/view/oanapadurariu/home), and Claudio Stirpe  
 
 * **Replacement dynamics of binary quadratic forms** [(preprint)](https://drive.google.com/open?id=107lX6URma4CRxumFyfwhCJanVrrJ8oi6&usp=drive_fs)  
 	with Raghav Bhutani  
@@ -22,7 +25,7 @@ I am also interested in involving undergraduates in research. In the 2024-2025 a
 	with [Tyler Genao](https://tylergenao.com/), [Tristan Phillips](https://sites.google.com/site/tristanphillipsmath/home), [Tim Santens](https://sites.google.com/view/timsantens/), and [John Yin](https://sites.google.com/view/johng23)  
 
 * **CM elliptic curves: volcanoes, reality and applications, part II** [(preprint)](https://drive.google.com/file/d/1SQwJ4HetSW6mQX-eZ_Fy4EAKF9nl5qJS/view?usp=sharing)  
-	with [Pete L. Clark](http://alpha.math.uga.edu/~pete/)  
+	with [Pete L. Clark](https://plclark.github.io/PeteLClark/)  
 
 ## Publications  
 
@@ -33,14 +36,14 @@ I am also interested in involving undergraduates in research. In the 2024-2025 a
 * **CM points on Shimura curves via QM-equivariant isogeny volcanoes** [(computations)](https://github.com/fsaia/CM-Points-Shimura-Curves), [(arXiv)](https://arxiv.org/abs/2212.12635), [(pub)](https://msp.org/pjm/2024/332-2/p06.xhtml)    
 	*Pacific Journal of Mathematics, Vol. 332 (2024), no. 2, 321–384*  
 
-* **The least degree of a CM point on a modular curve** [(computations)](https://github.com/fsaia/least-cm-degree), [(pdf)](http://alpha.math.uga.edu/~pete/least_CM_degree-1226.pdf), [(pub)](https://londmathsoc-onlinelibrary-wiley-com.proxy.cc.uic.edu/doi/10.1112/jlms.12518)     
-	with [Pete L. Clark](http://alpha.math.uga.edu/~pete/), [Tyler Genao](https://tylergenao.com/), and [Paul Pollack](https://pollack.uga.edu/)    
+* **The least degree of a CM point on a modular curve** [(computations)](https://github.com/fsaia/least-cm-degree), [(pdf)](https://plclark.github.io/PeteLClark/Research/least_CM_degree-April_22_2021.pdf), [(pub)](https://londmathsoc-onlinelibrary-wiley-com.proxy.cc.uic.edu/doi/10.1112/jlms.12518)     
+	with [Pete L. Clark](https://plclark.github.io/PeteLClark/), [Tyler Genao](https://tylergenao.com/), and [Paul Pollack](https://pollack.uga.edu/)    
 	*Journal of the London Mathematical Society (2) 105 (2022), no. 2, 825–883*    
 
 <img src='-8_ram.png' style="float:right; width:32%; margin: -100px;"/>
 
-* **Chevalley-Warning at the boundary** [(pdf)](http://alpha.math.uga.edu/~pete/Chevalley_Warning_on_the_Boundary.pdf), [(pub)](https://www-sciencedirect-com.proxy.cc.uic.edu/science/article/pii/S0723086921000207?via%3Dihub)  
-	with [Pete L. Clark](http://alpha.math.uga.edu/~pete/) and [Tyler Genao](https://tylergenao.com/)   
+* **Chevalley-Warning at the boundary** [(pdf)](https://plclark.github.io/PeteLClark/Research/Chevalley_Warning_on_the_Boundary.pdf), [(pub)](https://www-sciencedirect-com.proxy.cc.uic.edu/science/article/pii/S0723086921000207?via%3Dihub)  
+	with [Pete L. Clark](https://plclark.github.io/PeteLClark/) and [Tyler Genao](https://tylergenao.com/)   
 	*Expositiones Mathematicae 39 (2021), no. 4, 604–623*  
 
 * **Classically integral quadratic forms excepting at most two values** [(computations)](https://github.com/almostuniversals/two-vals), [(arXiv)](https://arxiv.org/abs/1608.01656), [(pub)](https://www-ams-org.proxy.cc.uic.edu/journals/proc/2018-146-09/S0002-9939-2018-13891-5/)         
@@ -52,11 +55,20 @@ I am also interested in involving undergraduates in research. In the 2024-2025 a
 ## Conferences and Workshops
 
 ### Invited Talks 
+* **Genus one Atkin--Lehner quotients of Shimura curves**  
+	*AMS Sectional Special Session on Recent Advances in the Mathematics of Cryptography -- October 2025*  
+
+* **A volcanic approach to torsion of CM elliptic curves**  
+	*Oberseminar, Max Planck Institute for Mathematics -- August 2025*  
 
 * **Effective surjectivity of Galois representations of products of elliptic curves over function fields** [(slides)](https://drive.google.com/open?id=1DFX5Zv2tiKGG70hx73PoT0utiMzJztEW&usp=drive_fs)    
 	*AMS Sectional Special Session on Counting and Asymptotics in Number Theory, Hartford, CT -- April 2025*  
 	*Number Theory Seminar, The Ohio State University -- March 2025*  
-	  
+	*Number Theory Seminar, Max Planck Institute for Mathematics -- August 2025*  
+
+* **Shimura curves, gonalities, and low-degree points** 
+	*JMM AMS Special Session on Mathematics Informed by Computing, Seattle, WA -- January 2025*  
+
 * **Low degree points on product surfaces** [(slides)](https://drive.google.com/file/d/1StIQJnP5jGKKUu8X1wliPwhdLf5KPViw/view?usp=sharing)  
 	*MathFest, Indianapolis, IN -- August 2024*   
 
@@ -69,7 +81,7 @@ I am also interested in involving undergraduates in research. In the 2024-2025 a
 
 * **A volcanic approach to CM points on Shimura curves** [(slides)](https://drive.google.com/file/d/1SW4jnTdaDrtyEUfpk_rxyQtgiKWylcyl/view?usp=sharing)   
 	*Algebra & Number Theory Seminar, Emory University -- March 2023*  
-	*JMM Special Session on Arithmetic Geometry Informed by Computation, Boston, MA -- January 2023*    
+	*JMM AMS Special Session on Arithmetic Geometry Informed by Computation, Boston, MA -- January 2023*    
 
 * **Classically integral quadratic forms excepting at most two values** [(slides)](https://drive.google.com/open?id=1zhFYt1vBehf-k8IorQQDJeZ4FII6qSSP)  
 	with M. Barowsky, W. Damron, A. Mejia, and N. Schock  

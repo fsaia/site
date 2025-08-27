@@ -26,7 +26,7 @@ I received my PhD in 2023 from the [University of Georgia](https://www.math.uga.
 
 Contact:
 * Email: fsaia (at) uic (dot) edu 
-* Office: SEO 610
+* Office: [SEO](https://maps.app.goo.gl/EBLQY8RyE1NujWKf7) 610
 
 [CV](https://drive.google.com/open?id=1XRbHBVtFHX0CR19FEnn8QhG1OLDe2Qit&usp=drive_fs)
 <br />

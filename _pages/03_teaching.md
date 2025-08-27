@@ -7,7 +7,10 @@ permalink: /teaching/
 
 In Fall 2025 I am teaching two sections of Math 210: Multivariable Calculus.  
 
-Fall 2025 Office Hours: (TBA!) in SEO 610, or by appointment.  
+My Fall 2025 Office Hours are as follows, or by appointment:
+
+*  Mondays 10:00 -- 11:00 a.m. in the [Math and Science Learning Center](https://mslc.uic.edu/), and
+*  Wednesday 2:00 -- 2:50 p.m. in [Science and Engineering Offices](https://maps.app.goo.gl/EBLQY8RyE1NujWKf7) room 610.
 
 
 As a graduate student at UGA, I completed the UGA Pride center's [Safe Space Training](https://lgbtcenter.uga.edu/content_page/safe-space). I consider my office a safe space for all, and I hope that you do, too! I also completed UGA's [Certificate in Diversity and Inclusion](http://diversity.uga.edu/index.php/programs/article/cdi).      

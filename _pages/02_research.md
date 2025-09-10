@@ -18,6 +18,8 @@ I am also interested in involving students in research. In the 2024-2025 academi
 * **Point counts, automorphisms, and gonalities of Shimura curves** [(preprint)](https://drive.google.com/open?id=1XPTi7WijH1pNq14BG7EM5swEKJ4FEWFz&usp=drive_fs)  
 	with [Pietro Mercuri](https://sites.google.com/view/mercuriptr/home), [Oana Padurariu](https://sites.google.com/view/oanapadurariu/home), and Claudio Stirpe  
 
+<img src='dual_graphs.png' style="float:right; width:40%; margin: -170px;"/>
+
 * **Replacement dynamics of binary quadratic forms** [(preprint)](https://drive.google.com/open?id=107lX6URma4CRxumFyfwhCJanVrrJ8oi6&usp=drive_fs)  
 	with Raghav Bhutani  
 

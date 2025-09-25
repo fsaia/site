@@ -15,10 +15,16 @@ I am also interested in involving students in research. In the 2024-2025 academi
 
 ## Preprints  
 
+* **Atkin--Lehner quotients of Shimura curves of genus at most two** [(preprint)](https://drive.google.com/open?id=1mq-a2TyFyDphbl5Co7ifuUb0-FtSKZwt&usp=drive_fs)  
+	with [Oana Padurariu](https://sites.google.com/view/oanapadurariu/home)  
+
+* **Explicit surjectivity of Galois representations of products of elliptic curves over function fields** [(preprint)](https://drive.google.com/open?id=1GNtFULGElTfc8UrJF2VlkS4So0rf89KO&usp=drive_fs)  
+	with [Alina Cojocaru](https://www.alinacarmencojocaru.com/acc-main.html)  
+
 * **Point counts, automorphisms, and gonalities of Shimura curves** [(preprint)](https://drive.google.com/open?id=1XPTi7WijH1pNq14BG7EM5swEKJ4FEWFz&usp=drive_fs)  
 	with [Pietro Mercuri](https://sites.google.com/view/mercuriptr/home), [Oana Padurariu](https://sites.google.com/view/oanapadurariu/home), and Claudio Stirpe  
 
-<img src='dual_graphs.png' style="float:right; width:40%; margin: -170px;"/>
+<img src='dual_graphs.png' style="float:right; width:38%; margin: -170px;"/>
 
 * **Replacement dynamics of binary quadratic forms** [(preprint)](https://drive.google.com/open?id=107lX6URma4CRxumFyfwhCJanVrrJ8oi6&usp=drive_fs)  
 	with Raghav Bhutani  
@@ -26,8 +32,9 @@ I am also interested in involving students in research. In the 2024-2025 academi
 * **Counting points on Atkin--Lehner quotients of some genus $$0$$ Shimura curves** [(preprint)](https://drive.google.com/open?id=1inQ619dsvHOdSJr60H__YCSth28T7gIz&usp=drive_fs)  
 	with [Tyler Genao](https://tylergenao.com/), [Tristan Phillips](https://sites.google.com/site/tristanphillipsmath/home), [Tim Santens](https://sites.google.com/view/timsantens/), and [John Yin](https://sites.google.com/view/johng23)  
 
-* **CM elliptic curves: volcanoes, reality and applications, part II** [(preprint)](https://drive.google.com/file/d/1SQwJ4HetSW6mQX-eZ_Fy4EAKF9nl5qJS/view?usp=sharing)  
+* **CM elliptic curves: volcanoes, reality and applications, part II** [(preprint)](https://drive.google.com/open?id=1b2EoBFmTbz8GHKvRBdasQ5vv-3qEob2-&usp=drive_fs)  
 	with [Pete L. Clark](https://plclark.github.io/PeteLClark/)  
+
 
 ## Publications  
 
@@ -56,7 +63,10 @@ I am also interested in involving students in research. In the 2024-2025 academi
 
 ## Conferences and Workshops
 
-### Invited Talks 
+### Invited Talks  
+* **Shimura curve Atkin--Lehner quotients of genus at most two**  
+	*JMM AMS Special Session on Rethinking Number Theory, Washington, D.C. -- January 2026*
+
 * **Genus one Atkin--Lehner quotients of Shimura curves**  
 	*AMS Sectional Special Session on Recent Advances in the Mathematics of Cryptography -- October 2025*  
 
@@ -73,6 +83,8 @@ I am also interested in involving students in research. In the 2024-2025 academi
 
 * **Low degree points on product surfaces** [(slides)](https://drive.google.com/file/d/1StIQJnP5jGKKUu8X1wliPwhdLf5KPViw/view?usp=sharing)  
 	*MathFest, Indianapolis, IN -- August 2024*   
+
+<img src='gamma0_17.jpg' style="float:right; width:30%; margin: -100px;"/> 
 
 * **Bielliptic Shimura curves $$X_0^D(N)$$ with nontrivial level** [(slides)](https://drive.google.com/open?id=1SlxsBQ77sOg_OHqjc6CDCwIh4ZmJ6ZGj&usp=drive_fs)  
 	*ANTS XVI, MIT -- July 2024*  
@@ -122,9 +134,7 @@ I am also interested in involving students in research. In the 2024-2025 academi
 	*Virtual -- July 2021*
 
 * **Mathematics Teacher-Scholar Symposium (MaTSS)**  
-	*Virtual -- May 2021*
-
-<img src='gamma0_17.jpg' style="float:right; width:30%; margin: -100px;"/>  
+	*Virtual -- May 2021* 
 
 * **Connecticut Number Theory Conference (CTNT)**  
 	*Virtual -- June 2020*  
@@ -154,6 +164,9 @@ I am also interested in involving students in research. In the 2024-2025 academi
 
 
 ### Contributed and Internal Seminar Talks  
+
+* **Shimura curve Atkin--Lehner quotients of genus at most two**  
+	*Number Theory Seminar -- UIC -- September 2025*
 
 * **Effective surjectivity of Galois representations of products of elliptic curves over function fields**   
 	*Number Theory Seminar -- UIC -- February 2025*  

@@ -32,7 +32,7 @@ Fall 2024
 * Math 180: Calculus I
 	*hybrid classroom structure*
 
-<img src='SCB.png' style="float:right; width:43%; margin: -100px;"/>
+<img src='ABTF.png' style="float:right; width:45%; margin: -110px;"/>
 
 
 Spring 2024
@@ -73,7 +73,7 @@ Summer 2021
 * Graduate TA for 2021 [PCMI Undergraduate Summer School](https://www.ias.edu/pcmi)    
 	*Topic: Quadratic forms, Milnor K-theory, and Arithmetic*  
 
-<img src='saddle.png' style="float:right; width:30%; margin: -100px;"/>
+<img src='SCB.png' style="float:right; width:45%; margin: -100px;"/>
 
 Spring 2021
 

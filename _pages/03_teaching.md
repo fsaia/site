@@ -7,6 +7,8 @@ permalink: /teaching/
 
 In Fall 2025 I am teaching two sections of Math 210: Multivariable Calculus.  
 
+I am also supervising an independent study on Silverman's *Advanced Topics in the Arithmetic of Elliptic Curves*.
+
 My Fall 2025 Office Hours are as follows, or by appointment:
 
 *  Mondays 10:00 -- 11:00 a.m. in the [Math and Science Learning Center](https://mslc.uic.edu/), and
@@ -22,8 +24,7 @@ As a graduate student at UGA, I completed the UGA Pride center's [Safe Space Tra
 
 Spring 2025  
 
-* Math 210: Multivariable Calculus  ([Review Notes](https://drive.google.com/open?id=1HjOwl3FgefYl1q5MUiHU3fAJVW-L_2rX&usp=drive_fs))  
-
+* Math 210: Multivariable Calculus  ([Review Notes](https://drive.google.com/open?id=1HjOwl3FgefYl1q5MUiHU3fAJVW-L_2rX&usp=drive_fs))    
 * [Math 525: Elliptic Curves](http://fsaia.github.io/site/math_525/).  
 
 Fall 2024

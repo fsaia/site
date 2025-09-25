@@ -15,22 +15,22 @@ I am also interested in involving students in research. In the 2024-2025 academi
 
 ## Preprints  
 
-* **Atkin--Lehner quotients of Shimura curves of genus at most two** [(preprint)](https://drive.google.com/open?id=1mq-a2TyFyDphbl5Co7ifuUb0-FtSKZwt&usp=drive_fs)  
+* **Atkin--Lehner quotients of Shimura curves of genus at most two** [(computations)](https://github.com/fsaia/GenusAtMost2), [(preprint)](https://drive.google.com/open?id=1mq-a2TyFyDphbl5Co7ifuUb0-FtSKZwt&usp=drive_fs)  
 	with [Oana Padurariu](https://sites.google.com/view/oanapadurariu/home)  
 
 * **Explicit surjectivity of Galois representations of products of elliptic curves over function fields** [(preprint)](https://drive.google.com/open?id=1GNtFULGElTfc8UrJF2VlkS4So0rf89KO&usp=drive_fs)  
 	with [Alina Cojocaru](https://www.alinacarmencojocaru.com/acc-main.html)  
 
-* **Point counts, automorphisms, and gonalities of Shimura curves** [(preprint)](https://drive.google.com/open?id=1XPTi7WijH1pNq14BG7EM5swEKJ4FEWFz&usp=drive_fs)  
+* **Point counts, automorphisms, and gonalities of Shimura curves** [(computations)](https://github.com/fsaia/ShimuraPointCounts), [(arXiv)](https://arxiv.org/abs/2507.15992)  
 	with [Pietro Mercuri](https://sites.google.com/view/mercuriptr/home), [Oana Padurariu](https://sites.google.com/view/oanapadurariu/home), and Claudio Stirpe  
 
-<img src='dual_graphs.png' style="float:right; width:38%; margin: -170px;"/>
-
-* **Replacement dynamics of binary quadratic forms** [(preprint)](https://drive.google.com/open?id=107lX6URma4CRxumFyfwhCJanVrrJ8oi6&usp=drive_fs)  
+* **Replacement dynamics of binary quadratic forms** [(arXiv)](https://arxiv.org/abs/2508.05816)  
 	with Raghav Bhutani  
 
-* **Counting points on Atkin--Lehner quotients of some genus $$0$$ Shimura curves** [(preprint)](https://drive.google.com/open?id=1inQ619dsvHOdSJr60H__YCSth28T7gIz&usp=drive_fs)  
+* **Counting points on Atkin--Lehner quotients of some genus $$0$$ Shimura curves** [(arXiv)](https://arxiv.org/abs/2504.09400)  
 	with [Tyler Genao](https://tylergenao.com/), [Tristan Phillips](https://sites.google.com/site/tristanphillipsmath/home), [Tim Santens](https://sites.google.com/view/timsantens/), and [John Yin](https://sites.google.com/view/johng23)  
+
+<img src='dual_graphs.png' style="float:right; width:38%; margin: -220px;"/>
 
 * **CM elliptic curves: volcanoes, reality and applications, part II** [(preprint)](https://drive.google.com/open?id=1b2EoBFmTbz8GHKvRBdasQ5vv-3qEob2-&usp=drive_fs)  
 	with [Pete L. Clark](https://plclark.github.io/PeteLClark/)  
@@ -49,7 +49,7 @@ I am also interested in involving students in research. In the 2024-2025 academi
 	with [Pete L. Clark](https://plclark.github.io/PeteLClark/), [Tyler Genao](https://tylergenao.com/), and [Paul Pollack](https://pollack.uga.edu/)    
 	*Journal of the London Mathematical Society (2) 105 (2022), no. 2, 825–883*    
 
-<img src='-8_ram.png' style="float:right; width:32%; margin: -100px;"/>
+<img src='-8_ram.png' style="float:right; width:32%; margin: -120px;"/>
 
 * **Chevalley-Warning at the boundary** [(pdf)](https://plclark.github.io/PeteLClark/Research/Chevalley_Warning_on_the_Boundary.pdf), [(pub)](https://www-sciencedirect-com.proxy.cc.uic.edu/science/article/pii/S0723086921000207?via%3Dihub)  
 	with [Pete L. Clark](https://plclark.github.io/PeteLClark/) and [Tyler Genao](https://tylergenao.com/)   

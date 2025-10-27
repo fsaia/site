@@ -18,7 +18,7 @@ I am also interested in involving students in research. In the 2024-2025 academi
 * **Shimura curve Atkin--Lehner quotients of genus at most two** [(computations)](https://github.com/fsaia/GenusAtMost2), [(arXiv)](https://arxiv.org/abs/2509.25368)  
 	with [Oana Padurariu](https://sites.google.com/view/oanapadurariu/home)  
 
-* **Explicit surjectivity of Galois representations of products of elliptic curves over function fields** [(preprint)](https://drive.google.com/open?id=1GNtFULGElTfc8UrJF2VlkS4So0rf89KO&usp=drive_fs)  
+* **Explicit surjectivity of Galois representations of products of elliptic curves over function fields** [(arXiv)](https://arxiv.org/abs/2510.20910)  
 	with [Alina Cojocaru](https://www.alinacarmencojocaru.com/acc-main.html)  
 
 * **Point counts, automorphisms, and gonalities of Shimura curves** [(computations)](https://github.com/fsaia/ShimuraPointCounts), [(arXiv)](https://arxiv.org/abs/2507.15992)  

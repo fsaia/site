@@ -5,14 +5,11 @@ title: Teaching
 permalink: /teaching/
 ---
 
-In Fall 2025 I am teaching two sections of Math 210: Multivariable Calculus.  
+In Spring 2026 I am teaching Math 215: Introduction to Advanced Mathematics.  
 
-I am also supervising an independent study on Silverman's *Advanced Topics in the Arithmetic of Elliptic Curves*.
+My Spring 2026 Office Hours are as follows, or by appointment either in my office or on Zoom:
 
-My Fall 2025 Office Hours are as follows, or by appointment:
-
-*  Mondays 10:00 -- 11:00 a.m. in the [Math and Science Learning Center](https://mslc.uic.edu/), and
-*  Wednesday 2:00 -- 2:50 p.m. in [Science and Engineering Offices](https://maps.app.goo.gl/EBLQY8RyE1NujWKf7) room 610.
+*  Mondays and Wednesdays 2:00 -- 3:00 p.m. in [Science and Engineering Offices](https://maps.app.goo.gl/EBLQY8RyE1NujWKf7) room 610.
 
 
 As a graduate student at UGA, I completed the UGA Pride center's [Safe Space Training](https://lgbtcenter.uga.edu/content_page/safe-space). I consider my office a safe space for all, and I hope that you do, too! I also completed UGA's [Certificate in Diversity and Inclusion](http://diversity.uga.edu/index.php/programs/article/cdi).      
@@ -22,10 +19,16 @@ As a graduate student at UGA, I completed the UGA Pride center's [Safe Space Tra
 
 <font size= "5"> <span style="color: black"> At UIC: </span> </font>
 
+Fall 2025
+
+* Math 210: Multivariable Calculus, 2 sections ([Course Notes](https://drive.google.com/open?id=1qQr63qvh_8jiPdMEIdgIu7PkaD0_6wib&usp=drive_fs)) ([Review Notes](https://drive.google.com/open?id=1HjOwl3FgefYl1q5MUiHU3fAJVW-L_2rX&usp=drive_fs))  
+
+
 Spring 2025  
 
-* Math 210: Multivariable Calculus  ([Review Notes](https://drive.google.com/open?id=1HjOwl3FgefYl1q5MUiHU3fAJVW-L_2rX&usp=drive_fs))    
-* [Math 525: Elliptic Curves](http://fsaia.github.io/site/math_525/).  
+* Math 210: Multivariable Calculus   
+
+* [Math 525: Elliptic Curves](http://127.0.0.1:4000/math_525/).  
 
 Fall 2024
 

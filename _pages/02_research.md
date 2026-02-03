@@ -64,14 +64,15 @@ I am also interested in involving students in research. In the 2024-2025 academi
 ## Conferences and Workshops
 
 ### Invited Talks  
+* **A volcanic approach to torsion of CM elliptic curves**  
+	*Oberseminar, Max Planck Institute for Mathematics -- August 2025*  
+	*Lafayette College -- February 2026* [(slides)](https://drive.google.com/open?id=1pNB91BR54jFOgJn_ykc-DL7-Mwk3bt0V&usp=drive_fs) [(slides 16:9)](https://drive.google.com/open?id=1dVj3G3EA8dXSYzP9oCnSKbXsR1Rfi8lU&usp=drive_fs)  
+
 * **Shimura curve Atkin--Lehner quotients of genus at most two**  
 	*JMM AMS Special Session on Rethinking Number Theory, Washington, D.C. -- January 2026*
 
 * **Genus one Atkin--Lehner quotients of Shimura curves**  
 	*AMS Sectional Special Session on Recent Advances in the Mathematics of Cryptography -- October 2025*  
-
-* **A volcanic approach to torsion of CM elliptic curves**  
-	*Oberseminar, Max Planck Institute for Mathematics -- August 2025*  
 
 * **Effective surjectivity of Galois representations of products of elliptic curves over function fields** [(slides)](https://drive.google.com/open?id=1DFX5Zv2tiKGG70hx73PoT0utiMzJztEW&usp=drive_fs)    
 	*AMS Sectional Special Session on Counting and Asymptotics in Number Theory, Hartford, CT -- April 2025*  

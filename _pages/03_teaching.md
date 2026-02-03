@@ -28,7 +28,7 @@ Spring 2025
 
 * Math 210: Multivariable Calculus   
 
-* [Math 525: Elliptic Curves](fsaia.github.io/site/math_525/).  
+* [Math 525: Elliptic Curves](https://fsaia.github.io/site/math_525/).  
 
 Fall 2024
 

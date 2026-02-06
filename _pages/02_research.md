@@ -66,7 +66,7 @@ I am also interested in involving students in research. In the 2024-2025 academi
 ### Invited Talks  
 * **A volcanic approach to torsion of CM elliptic curves**  
 	*Oberseminar, Max Planck Institute for Mathematics -- August 2025*  
-	*Lafayette College -- February 2026* [(slides)](https://drive.google.com/open?id=1mHH57XVTztJWzBh9fw2iXVE6QGd9kH0p&usp=drive_fs) [(slides 16:9)](https://drive.google.com/open?id=1B5E6dbTH1zT34lRaexc6w_loYFaVtgKA&usp=drive_fs)  
+	[comment]: <> *Lafayette College -- February 2026* [(slides)](https://drive.google.com/open?id=1mHH57XVTztJWzBh9fw2iXVE6QGd9kH0p&usp=drive_fs) [(slides 16:9)](https://drive.google.com/open?id=1B5E6dbTH1zT34lRaexc6w_loYFaVtgKA&usp=drive_fs)  
 
 * **Shimura curve Atkin--Lehner quotients of genus at most two**  
 	*JMM AMS Special Session on Rethinking Number Theory, Washington, D.C. -- January 2026*

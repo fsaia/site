@@ -61,13 +61,19 @@ I am also interested in involving students in research. In the 2024-2025 academi
 
 
 
-## Talks, Conferences, and Workshops
+## Conferences and Workshops
 
 ### Invited Talks  
+* **Effective surjectivity of Galois representations of products of elliptic curves over function fields**     
+	*AMS Sectional Special Session on Counting and Asymptotics in Number Theory, Hartford, CT -- April 2025*  
+	*Number Theory Seminar, The Ohio State University -- March 2025*  
+	*Number Theory Seminar, Max Planck Institute for Mathematics -- August 2025* 
+	*AMS Sectional Special Session on Arithmetic of Function Fields, Boston, MA -- March 2026*   
+
 * **A volcanic approach to torsion of CM elliptic curves**  
 	*Oberseminar, Max Planck Institute for Mathematics -- August 2025*  
-
-[comment]: <> *Lafayette College -- February 2026* [(slides)](https://drive.google.com/open?id=1mHH57XVTztJWzBh9fw2iXVE6QGd9kH0p&usp=drive_fs) [(slides 16:9)](https://drive.google.com/open?id=1B5E6dbTH1zT34lRaexc6w_loYFaVtgKA&usp=drive_fs)  
+	*Lafayette College -- February 2026*  
+	*Virginia Tech -- February 2026* [(slides)](https://drive.google.com/open?id=1p4pTll0KhI6sc1ypPQhHU5nZc-ZBU350&usp=drive_fs) [(slides 16:9)](https://drive.google.com/open?id=1be-3tkroz8I-QcqgJT1DitqrrkzLduzh&usp=drive_fs)  
 
 * **Shimura curve Atkin--Lehner quotients of genus at most two**  
 	*JMM AMS Special Session on Rethinking Number Theory, Washington, D.C. -- January 2026*
@@ -75,12 +81,7 @@ I am also interested in involving students in research. In the 2024-2025 academi
 * **Genus one Atkin--Lehner quotients of Shimura curves**  
 	*AMS Sectional Special Session on Recent Advances in the Mathematics of Cryptography -- October 2025*  
 
-* **Effective surjectivity of Galois representations of products of elliptic curves over function fields** [(slides)](https://drive.google.com/open?id=1DFX5Zv2tiKGG70hx73PoT0utiMzJztEW&usp=drive_fs)    
-	*AMS Sectional Special Session on Counting and Asymptotics in Number Theory, Hartford, CT -- April 2025*  
-	*Number Theory Seminar, The Ohio State University -- March 2025*  
-	*Number Theory Seminar, Max Planck Institute for Mathematics -- August 2025*  
-
-* **Shimura curves, gonalities, and low-degree points** 
+* **Shimura curves, gonalities, and low-degree points**  
 	*JMM AMS Special Session on Mathematics Informed by Computing, Seattle, WA -- January 2025*  
 
 * **Low degree points on product surfaces** [(slides)](https://drive.google.com/file/d/1StIQJnP5jGKKUu8X1wliPwhdLf5KPViw/view?usp=sharing)  

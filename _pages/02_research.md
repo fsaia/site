@@ -67,7 +67,7 @@ I am also interested in involving students in research. In the 2024-2025 academi
 * **Effective surjectivity of Galois representations of products of elliptic curves over function fields**     
 	*AMS Sectional Special Session on Counting and Asymptotics in Number Theory, Hartford, CT -- April 2025*  
 	*Number Theory Seminar, The Ohio State University -- March 2025*  
-	*Number Theory Seminar, Max Planck Institute for Mathematics -- August 2025* 
+	*Number Theory Seminar, Max Planck Institute for Mathematics -- August 2025*  
 	*AMS Sectional Special Session on Arithmetic of Function Fields, Boston, MA -- March 2026*   
 
 * **A volcanic approach to torsion of CM elliptic curves**  

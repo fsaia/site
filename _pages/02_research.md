@@ -27,16 +27,17 @@ I am also interested in involving students in research. In the 2024-2025 academi
 * **Replacement dynamics of binary quadratic forms** [(arXiv)](https://arxiv.org/abs/2508.05816)  
 	with Raghav Bhutani  
 
-* **Counting points on Atkin--Lehner quotients of some genus $$0$$ Shimura curves** [(arXiv)](https://arxiv.org/abs/2504.09400)  
-	with [Tyler Genao](https://tylergenao.com/), [Tristan Phillips](https://sites.google.com/site/tristanphillipsmath/home), [Tim Santens](https://sites.google.com/view/timsantens/), and [John Yin](https://sites.google.com/view/johng23)  
-
-<img src='dual_graphs.png' style="float:right; width:38%; margin: -220px;"/>
+<img src='dual_graphs.png' style="float:right; width:38%; margin: -160px;"/>
 
 * **CM elliptic curves: volcanoes, reality and applications, part II** [(preprint)](https://drive.google.com/open?id=1b2EoBFmTbz8GHKvRBdasQ5vv-3qEob2-&usp=drive_fs)  
 	with [Pete L. Clark](https://plclark.github.io/PeteLClark/)  
 
 
 ## Publications  
+
+* **Counting points on Atkin--Lehner quotients of some genus $$0$$ Shimura curves** [(arXiv)](https://arxiv.org/abs/2504.09400)  
+	with [Tyler Genao](https://tylergenao.com/), [Tristan Phillips](https://sites.google.com/site/tristanphillipsmath/home), [Tim Santens](https://sites.google.com/view/timsantens/), and [John Yin](https://sites.google.com/view/johng23)  
+	*Mathematical Proceedings of the Cambridge Philisophical Society, to appear*   
 
 * **Bielliptic Shimura curves $$X_0^D(N)$$ with nontrivial level** [(computations)](https://github.com/fsaia/Bielliptic-Shimura-Curves), [(arXiv)](https://arxiv.org/abs/2401.08829), [(pub)](https://rdcu.be/d2kJs)    
 	with [Oana Padurariu](https://sites.google.com/view/oanapadurariu/home)  
@@ -69,7 +70,6 @@ I am also interested in involving students in research. In the 2024-2025 academi
 	*Number Theory Seminar, The Ohio State University -- March 2025*  
 	*Number Theory Seminar, Max Planck Institute for Mathematics -- August 2025*  
 	*AMS Sectional Special Session on Arithmetic of Function Fields, Boston, MA -- March 2026*   
-
 * **A volcanic approach to torsion of CM elliptic curves**  
 	*Oberseminar, Max Planck Institute for Mathematics -- August 2025*  
 	*Lafayette College -- February 2026*  
@@ -105,6 +105,7 @@ I am also interested in involving students in research. In the 2024-2025 academi
 	*Joint Math Meetings, Atlanta, GA -- January 2017*  
 
 
+<!--- comment 
 
 ### Other Conferences and Workshops Attended
 
@@ -242,7 +243,7 @@ I am also interested in involving students in research. In the 2024-2025 academi
 
 * **An axiomatic approach to homology theory**  
 	*Graduate Summer Conference, UGA -- July 2018*  
-
+--->
 
 
 

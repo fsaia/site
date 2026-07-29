@@ -64,12 +64,13 @@ I am also interested in involving students in research. In the 2024-2025 academi
 
 ## Conferences and Workshops
 
-### Invited Talks  
+### Invited and Contributed Talks  
 * **Effective surjectivity of Galois representations of products of elliptic curves over function fields**     
 	*AMS Sectional Special Session on Counting and Asymptotics in Number Theory, Hartford, CT -- April 2025*  
 	*Number Theory Seminar, The Ohio State University -- March 2025*  
 	*Number Theory Seminar, Max Planck Institute for Mathematics -- August 2025*  
-	*AMS Sectional Special Session on Arithmetic of Function Fields, Boston, MA -- March 2026*   
+	*AMS Sectional Special Session on Arithmetic of Function Fields, Boston, MA -- March 2026*
+  
 * **A volcanic approach to torsion of CM elliptic curves**  
 	*Oberseminar, Max Planck Institute for Mathematics -- August 2025*  
 	*Lafayette College -- February 2026*  
@@ -105,10 +106,12 @@ I am also interested in involving students in research. In the 2024-2025 academi
 	*Joint Math Meetings, Atlanta, GA -- January 2017*  
 
 
-<!--- comment 
 
 ### Other Conferences and Workshops Attended
 
+* **MPS Conference on The Eisenstein Ideal and Galois Representations**  
+	*Simons Foundation -- May 2026*
+  
 * **The Mordell conjecture 100 years later**  
 	*MIT -- July 2024*  
 
@@ -165,7 +168,7 @@ I am also interested in involving students in research. In the 2024-2025 academi
 	**Conference on Elliptic Curves and Modular Forms (CTNT)**  
 	*University of Connecticut -- May 2018*
 
-
+<!--- comment 
 
 ### Contributed and Internal Seminar Talks  
 

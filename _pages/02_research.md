@@ -37,7 +37,6 @@ I am also interested in involving students in research. In the 2024-2025 academi
 
 * **Counting points on Atkin--Lehner quotients of some genus $$0$$ Shimura curves** [(arXiv)](https://arxiv.org/abs/2504.09400), [(pub)](https://www.cambridge.org/core/journals/mathematical-proceedings-of-the-cambridge-philosophical-society/article/counting-points-on-some-genus-zero-shimura-curves/778AEFCE4EBB55AEA844AA66E40E7C33)   
 	with [Tyler Genao](https://tylergenao.com/), [Tristan Phillips](https://sites.google.com/site/tristanphillipsmath/home), [Tim Santens](https://sites.google.com/view/timsantens/), and [John Yin](https://sites.google.com/view/johng23)  
-	with [Tyler Genao](https://tylergenao.com/), [Tristan Phillips](https://sites.google.com/site/tristanphillipsmath/home), [Tim Santens](https://sites.google.com/view/timsantens/), and [John Yin](https://sites.google.com/view/johng23)  
 	*Mathematical Proceedings of the Cambridge Philisophical Society, to appear*   
 
 * **Bielliptic Shimura curves $$X_0^D(N)$$ with nontrivial level** [(computations)](https://github.com/fsaia/Bielliptic-Shimura-Curves), [(arXiv)](https://arxiv.org/abs/2401.08829), [(pub)](https://rdcu.be/d2kJs)    
